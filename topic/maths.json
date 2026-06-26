@@ -1,0 +1,230 @@
+{
+	"1: Number System (संख्या पद्धति)": [
+		"Natural Numbers (प्राकृतिक संख्याएँ)",
+		"Whole Numbers (पूर्ण संख्याएँ)",
+		"Integers (पूर्णांक)",
+		"Rational and Irrational Numbers (परिमेय एवं अपरिमेय संख्याएँ)",
+		"Real Numbers (वास्तविक संख्याएँ)",
+		"Prime and Composite Numbers (अभाज्य एवं संयोज्य संख्याएँ)",
+		"Even and Odd Numbers (सम एवं विषम संख्याएँ)",
+		"Divisibility Rules (विभाज्यता के नियम)",
+		"Surds and Indices (करनी एवं घातांक)"
+	],
+	"2: Simplification (सरलीकरण)": [
+		"BODMAS Rule (बोडमास नियम)",
+		"Addition and Subtraction (जोड़ एवं घटाव)",
+		"Multiplication and Division (गुणा एवं भाग)",
+		"Fractions and Decimals (भिन्न एवं दशमलव)",
+		"Squares and Square Roots (वर्ग एवं वर्गमूल)",
+		"Cubes and Cube Roots (घन एवं घनमूल)",
+		"Approximation (सन्निकटन)"
+	],
+	"3: LCM and HCF (लघुत्तम समापवर्त्य एवं महत्तम समापवर्तक)": [
+		"Factors and Multiples (गुणनखंड एवं गुणज)",
+		"Methods to Find LCM (LCM ज्ञात करने की विधियाँ)",
+		"Methods to Find HCF (HCF ज्ञात करने की विधियाँ)",
+		"Relationship between LCM and HCF (LCM–HCF संबंध)",
+		"Problems Based on LCM and HCF (आधारित प्रश्न)"
+	],
+	"4: Average (औसत)": [
+		"Definition of Average (औसत की परिभाषा)",
+		"Simple Average (साधारण औसत)",
+		"Weighted Average (भारित औसत)",
+		"Problems on Average (औसत पर आधारित प्रश्न)",
+		"Average Speed (औसत चाल)"
+	],
+	"5: Percentage (प्रतिशत)": [
+		"Definition of Percentage (प्रतिशत की परिभाषा)",
+		"Conversion – Fraction to Percentage (रूपांतरण)",
+		"Increase and Decrease Percentage (वृद्धि एवं कमी)",
+		"Percentage Comparison (प्रतिशत तुलना)",
+		"Problems Based on Percentage (आधारित प्रश्न)"
+	],
+	"6: Profit and Loss (लाभ और हानि)": [
+		"Cost Price and Selling Price (क्रय मूल्य एवं विक्रय मूल्य)",
+		"Profit and Loss Concepts (लाभ–हानि अवधारणा)",
+		"Profit Percentage and Loss Percentage (प्रतिशत)",
+		"Marked Price and Discount (अंकित मूल्य एवं छूट)",
+		"Successive Discount (क्रमिक छूट)",
+		"Problems on Profit and Loss (आधारित प्रश्न)"
+	],
+	"7: Simple Interest (साधारण ब्याज)": [
+		"Principal, Rate and Time (मूलधन, दर एवं समय)",
+		"Simple Interest Formula (साधारण ब्याज सूत्र)",
+		"Amount Calculation (राशि की गणना)",
+		"Problems Based on Simple Interest (आधारित प्रश्न)"
+	],
+	"8: Compound Interest (चक्रवृद्धि ब्याज)": [
+		"Compound Interest Formula (चक्रवृद्धि ब्याज सूत्र)",
+		"Amount in Compound Interest (राशि)",
+		"Difference between SI and CI (SI एवं CI में अंतर)",
+		"Compound Interest Compounded Annually/Half-yearly (वार्षिक/अर्धवार्षिक)",
+		"Problems Based on CI (आधारित प्रश्न)"
+	],
+	"9: Ratio and Proportion (अनुपात एवं समानुपात)": [
+		"Concept of Ratio (अनुपात की अवधारणा)",
+		"Types of Ratio (अनुपात के प्रकार)",
+		"Proportion (समानुपात)",
+		"Continued Proportion (सतत समानुपात)",
+		"Problems on Ratio and Proportion (आधारित प्रश्न)"
+	],
+	"10: Partnership (साझेदारी)": [
+		"Partnership Concept (साझेदारी अवधारणा)",
+		"Investment and Time (पूंजी एवं समय)",
+		"Profit Sharing Ratio (लाभ वितरण अनुपात)",
+		"Partnership with Salary (वेतन सहित साझेदारी)",
+		"Problems Based on Partnership (आधारित प्रश्न)"
+	],
+	"11: Time and Work (समय और कार्य)": [
+		"Basic Concepts of Work (कार्य की मूल अवधारणा)",
+		"Efficiency of a Person (क्षमता)",
+		"Work Done in Given Time (कार्य-समय संबंध)",
+		"Combined Work (संयुक्त कार्य)",
+		"Problems on Time and Work (आधारित प्रश्न)",
+		"Work and Wages (कार्य और मजदूरी)"
+	],
+	"12: Pipes and Cisterns (नल और टंकी)": [
+		"Filling Pipes (भरने वाले नल)",
+		"Emptying Pipes (खाली करने वाले नल)",
+		"Combined Pipes (संयुक्त नल)",
+		"Leakage Problems (रिसाव आधारित प्रश्न)",
+		"Relation with Time and Work (समय-कार्य संबंध)"
+	],
+	"13: Time, Speed and Distance (समय, चाल और दूरी)": [
+		"Basic Formula – Speed, Time, Distance (मूल सूत्र)",
+		"Uniform and Non-uniform Speed (समान/असमान चाल)",
+		"Average Speed (औसत चाल)",
+		"Relative Speed (सापेक्ष चाल)",
+		"Problems on Time, Speed and Distance (आधारित प्रश्न)"
+	],
+	"14: Boats and Streams (नाव और धारा)": [
+		"Upstream and Downstream (धारा के विपरीत/साथ)",
+		"Speed of Boat in Still Water (स्थिर जल में नाव की चाल)",
+		"Speed of Stream (धारा की चाल)",
+		"Formula Based Problems (सूत्र आधारित प्रश्न)",
+		"Problems on Boats and Streams (आधारित प्रश्न)"
+	],
+	"15: Train Problems (रेलगाड़ी के प्रश्न)": [
+		"Speed of Train (रेलगाड़ी की चाल)",
+		"Crossing a Pole or Platform (खंभा/प्लेटफॉर्म पार करना)",
+		"Crossing Another Train (दो ट्रेनों का पार करना)",
+		"Length of Train (रेलगाड़ी की लंबाई)",
+		"Problems on Trains (आधारित प्रश्न)"
+	],
+	"16: Mensuration 2D (क्षेत्रमिति – द्विविमीय)": [
+		"Perimeter and Area (परिमाप एवं क्षेत्रफल)",
+		"Rectangle and Square (आयत एवं वर्ग)",
+		"Triangle (त्रिभुज)",
+		"Circle – Radius, Diameter, Circumference (वृत्त)",
+		"Sector and Segment (सेक्टर एवं सेगमेंट)",
+		"Problems on 2D Mensuration (आधारित प्रश्न)"
+	],
+	"17: Mensuration 3D (घनमिति – त्रिविमीय)": [
+		"Volume and Surface Area (आयतन एवं पृष्ठीय क्षेत्रफल)",
+		"Cube and Cuboid (घन एवं घनाभ)",
+		"Cylinder (बेलन)",
+		"Cone (शंकु)",
+		"Sphere and Hemisphere (गोला एवं अर्धगोला)",
+		"Frustum of Cone (शंकु का कटित भाग)",
+		"Problems on 3D Mensuration (आधारित प्रश्न)"
+	],
+	"18: Algebra (बीजगणित)": [
+		"Algebraic Expressions (बीजीय व्यंजक)",
+		"Polynomials (बहुपद)",
+		"Identities (सर्वसमिकाएँ)",
+		"Factorization (गुणनखंड)",
+		"Simplification of Algebraic Expressions (सरलीकरण)",
+		"Problems on Algebra (आधारित प्रश्न)"
+	],
+	"19: Linear Equations (रेखीय समीकरण)": [
+		"Linear Equation in One Variable (एक चर में रेखीय समीकरण)",
+		"Linear Equation in Two Variables (दो चर में)",
+		"Methods of Solving Linear Equations (हल करने की विधियाँ)",
+		"Word Problems on Linear Equations (कथात्मक प्रश्न)",
+		"Graphical Representation (ग्राफ द्वारा निरूपण)"
+	],
+	"20: Quadratic Equations (द्विघात समीकरण)": [
+		"Standard Form of Quadratic Equation (मानक रूप)",
+		"Methods of Solving – Factorization (गुणनखंड विधि)",
+		"Completing the Square Method (वर्ग पूर्ण विधि)",
+		"Quadratic Formula (द्विघात सूत्र)",
+		"Nature of Roots (मूलों का स्वभाव)",
+		"Problems on Quadratic Equations (आधारित प्रश्न)"
+	],
+	"21: Progressions – AP, GP (श्रृंखलाएँ)": [
+		"Arithmetic Progression – AP (समांतर श्रेणी)",
+		"General Term of AP (AP का सामान्य पद)",
+		"Sum of n Terms of AP (AP के n पदों का योग)",
+		"Geometric Progression – GP (गुणोत्तर श्रेणी)",
+		"General Term of GP (GP का सामान्य पद)",
+		"Sum of n Terms of GP (GP के n पदों का योग)",
+		"Problems on Progressions (श्रृंखला आधारित प्रश्न)"
+	],
+	"22: Geometry (ज्यामिति)": [
+		"Basic Concepts of Geometry (ज्यामिति की मूल अवधारणाएँ)",
+		"Lines and Angles (रेखाएँ एवं कोण)",
+		"Parallel Lines and Transversal (समांतर रेखाएँ)",
+		"Polygons (बहुभुज)",
+		"Congruency of Figures (आकृतियों की सर्वांगसमता)",
+		"Basic Geometrical Theorems (मूल प्रमेय)"
+	],
+	"23: Triangles (त्रिभुज)": [
+		"Types of Triangles (त्रिभुज के प्रकार)",
+		"Properties of Triangles (त्रिभुज के गुण)",
+		"Congruency of Triangles (त्रिभुजों की सर्वांगसमता)",
+		"Similarity of Triangles (त्रिभुजों की समरूपता)",
+		"Pythagoras Theorem (पाइथागोरस प्रमेय)",
+		"Problems on Triangles (त्रिभुज आधारित प्रश्न)"
+	],
+	"24: Circles (वृत्त)": [
+		"Basic Terms of Circle (वृत्त की शब्दावली)",
+		"Chord, Diameter and Tangent (जीवा, व्यास एवं स्पर्शरेखा)",
+		"Properties of Tangent (स्पर्शरेखा के गुण)",
+		"Angle Subtended by Chord (जीवा द्वारा बना कोण)",
+		"Theorems on Circles (वृत्त के प्रमेय)",
+		"Problems on Circles (वृत्त आधारित प्रश्न)"
+	],
+	"25: Coordinate Geometry (निर्देशांक ज्यामिति)": [
+		"Cartesian Coordinate System (कार्तीय निर्देशांक प्रणाली)",
+		"Distance Formula (दूरी सूत्र)",
+		"Section Formula (खंड सूत्र)",
+		"Mid-point Formula (मध्यबिंदु सूत्र)",
+		"Area of Triangle (त्रिभुज का क्षेत्रफल)",
+		"Problems on Coordinate Geometry (आधारित प्रश्न)"
+	],
+	"26: Trigonometry (त्रिकोणमिति)": [
+		"Trigonometric Ratios (त्रिकोणमितीय अनुपात)",
+		"Values of Trigonometric Ratios (मान)",
+		"Trigonometric Identities (त्रिकोणमितीय सर्वसमिकाएँ)",
+		"Heights and Distances – Introduction (ऊँचाई और दूरी परिचय)",
+		"Problems on Trigonometry (आधारित प्रश्न)"
+	],
+	"27: Heights and Distances (ऊँचाई और दूरी)": [
+		"Angle of Elevation (उन्नयन कोण)",
+		"Angle of Depression (अवनमन कोण)",
+		"Line of Sight (दृष्टि रेखा)",
+		"Problems on Heights and Distances (ऊँचाई–दूरी प्रश्न)"
+	],
+	"28: Statistics (सांख्यिकी)": [
+		"Collection of Data (आँकड़ों का संग्रह)",
+		"Tabulation of Data (वर्गीकरण)",
+		"Measures of Central Tendency – Mean, Median, Mode (केन्द्रीय प्रवृत्ति)",
+		"Graphical Representation – Bar, Pie Chart (आलेख)",
+		"Problems on Statistics (आधारित प्रश्न)"
+	],
+	"29: Data Interpretation – DI (आँकड़ा विश्लेषण)": [
+		"Tabular Data (सारणीबद्ध आँकड़े)",
+		"Bar Graph (स्तम्भ आलेख)",
+		"Line Graph (रेखा आलेख)",
+		"Pie Chart (पाई चार्ट)",
+		"Caselet DI (केसलेट आधारित DI)",
+		"Mixed Data Interpretation (मिश्रित DI)"
+	],
+	"30: Probability (प्रायिकता)": [
+		"Concept of Probability (प्रायिकता की अवधारणा)",
+		"Classical Definition of Probability (परंपरागत परिभाषा)",
+		"Addition Law of Probability (योग नियम)",
+		"Simple Probability Problems (सरल प्रश्न)",
+		"Probability Based on Cards, Dice, Coins (ताश, पासा, सिक्का)"
+	]
+}

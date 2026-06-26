@@ -1,0 +1,265 @@
+{
+  "1: Introduction to Indian Economy (भारतीय अर्थव्यवस्था का परिचय)": [
+    "Meaning of Economy (अर्थव्यवस्था का अर्थ)",
+    "Nature of Indian Economy (भारतीय अर्थव्यवस्था की प्रकृति)",
+    "Features of Indian Economy (विशेषताएँ)",
+    "Developing Economy Concept (विकासशील अर्थव्यवस्था)"
+  ],
+
+  "2: Basic Concepts of Economy (अर्थव्यवस्था की मूल अवधारणाएँ)": [
+    "Micro & Macro Economics (सूक्ष्म व समष्टि)",
+    "Goods and Services (वस्तु एवं सेवाएँ)",
+    "Utility, Value, Wealth",
+    "Economic Activities"
+  ],
+
+  "3: Types of Economy (अर्थव्यवस्था के प्रकार)": [
+    "Capitalist Economy (पूंजीवादी)",
+    "Socialist Economy (समाजवादी)",
+    "Mixed Economy (मिश्रित)",
+    "Open & Closed Economy"
+  ],
+
+  "4: National Income (राष्ट्रीय आय)": [
+    "GDP, GNP, NNP, NI",
+    "Per Capita Income (प्रति व्यक्ति आय)",
+    "Methods of Measuring National Income",
+    "Nominal vs Real Income"
+  ],
+
+  "5: Sectors of Economy (अर्थव्यवस्था के क्षेत्र)": [
+    "Primary Sector (प्राथमिक)",
+    "Secondary Sector (द्वितीयक)",
+    "Tertiary Sector (तृतीयक)",
+    "Contribution to GDP & Employment"
+  ],
+
+  "6: Economic Planning in India (भारत में आर्थिक नियोजन)": [
+    "Concept of Planning",
+    "Planning Commission (Historical)",
+    "Objectives of Planning",
+    "Planning Models"
+  ],
+
+  "7: Five Year Plans (पंचवर्षीय योजनाएँ)": [
+    "First to Twelfth Five Year Plan",
+    "Objectives & Achievements",
+    "Failures of Plans",
+    "End of Planning Era"
+  ],
+
+  "8: NITI Aayog (नीति आयोग)": [
+    "Formation of NITI Aayog",
+    "Objectives & Functions",
+    "Difference between NITI Aayog & Planning Commission"
+  ],
+
+  "9: Agriculture Sector (कृषि क्षेत्र)": [
+    "Role of Agriculture in Economy",
+    "Cropping Patterns",
+    "Green Revolution",
+    "Problems of Indian Agriculture"
+  ],
+
+  "10: Industrial Sector (औद्योगिक क्षेत्र)": [
+    "Role of Industry",
+    "Large Scale & Small Scale Industries",
+    "Make in India",
+    "Industrial Policies"
+  ],
+
+  "11: Service Sector (सेवा क्षेत्र)": [
+    "Growth of Service Sector",
+    "IT & ITES",
+    "Contribution to GDP",
+    "Employment Generation"
+  ],
+
+  "12: Infrastructure of Indian Economy (भारतीय अर्थव्यवस्था का अवसंरचना)": [
+    "Meaning of Infrastructure",
+    "Physical & Social Infrastructure",
+    "Transport, Power, Communication"
+  ],
+
+  "13: Money and Banking (मुद्रा एवं बैंकिंग)": [
+    "Meaning of Money",
+    "Functions of Money",
+    "Types of Money",
+    "Credit Creation"
+  ],
+
+  "14: Reserve Bank of India – RBI (भारतीय रिज़र्व बैंक)": [
+    "Functions of RBI",
+    "Monetary Authority",
+    "Issue of Currency",
+    "Controller of Credit"
+  ],
+
+  "15: Commercial Banks (वाणिज्यिक बैंक)": [
+    "Functions of Commercial Banks",
+    "Types of Banks",
+    "Banking Reforms",
+    "NPAs"
+  ],
+
+  "16: Non-Banking Financial Institutions – NBFC (गैर-बैंकिंग वित्तीय संस्थाएँ)": [
+    "Meaning of NBFC",
+    "Types of NBFC",
+    "Role in Economy",
+    "Difference between Bank & NBFC"
+  ],
+
+  "17: Financial Markets (वित्तीय बाजार)": [
+    "Meaning of Financial Market",
+    "Types of Financial Markets",
+    "Role in Economy"
+  ],
+
+  "18: Capital Market (पूँजी बाजार)": [
+    "Primary Market",
+    "Secondary Market",
+    "SEBI",
+    "Stock Exchange"
+  ],
+
+  "19: Money Market (मुद्रा बाजार)": [
+    "Call Money Market",
+    "Treasury Bills",
+    "Commercial Paper",
+    "Certificates of Deposit"
+  ],
+
+  "20: Fiscal Policy (राजकोषीय नीति)": [
+    "Meaning of Fiscal Policy",
+    "Revenue & Capital Budget",
+    "Deficit – Fiscal, Revenue, Primary"
+  ],
+
+  "21: Monetary Policy (मौद्रिक नीति)": [
+    "Meaning of Monetary Policy",
+    "Quantitative Tools",
+    "Qualitative Tools",
+    "Repo & Reverse Repo Rate"
+  ],
+
+  "22: Inflation (मुद्रास्फीति)": [
+    "Meaning of Inflation",
+    "Types of Inflation",
+    "Causes of Inflation",
+    "Effects of Inflation"
+  ],
+
+  "23: Deflation and Stagflation (मुद्रासंकुचन एवं स्थिरमुद्रास्फीति)": [
+    "Meaning of Deflation",
+    "Meaning of Stagflation",
+    "Difference between Inflation & Deflation"
+  ],
+
+  "24: Poverty in India (भारत में गरीबी)": [
+    "Meaning of Poverty",
+    "Poverty Line",
+    "Causes of Poverty",
+    "Poverty Alleviation Programmes"
+  ],
+
+  "25: Unemployment (बेरोज़गारी)": [
+    "Types of Unemployment",
+    "Seasonal & Disguised Unemployment",
+    "Unemployment in India"
+  ],
+
+  "26: Economic Reforms of 1991 (1991 के आर्थिक सुधार)": [
+    "Background of Reforms",
+    "Need for Reforms",
+    "Impact of Reforms"
+  ],
+
+  "27: LPG - Liberalization, Privatization and Globalization (उदारीकरण, निजीकरण, वैश्वीकरण)": [
+    "Meaning of LPG",
+    "Objectives",
+    "Impact on Indian Economy"
+  ],
+
+  "28: Foreign Trade (विदेश व्यापार)": [
+    "Exports & Imports",
+    "Direction of Trade",
+    "Trade Policy of India"
+  ],
+
+  "29: Balance of Payments – BOP (भुगतान संतुलन)": [
+    "Meaning of BOP",
+    "Current Account",
+    "Capital Account",
+    "BOP Deficit & Surplus"
+  ],
+
+  "30: Foreign Direct Investment – FDI (प्रत्यक्ष विदेशी निवेश)": [
+    "Meaning of FDI",
+    "FDI Routes",
+    "FDI in India",
+    "Difference between FDI & FPI"
+  ],
+
+  "31: World Bank and IMF (विश्व बैंक एवं IMF)": [
+    "Objectives of IMF",
+    "Functions of World Bank",
+    "India and IMF"
+  ],
+
+  "32: WTO and International Trade Organizations (WTO एवं अंतरराष्ट्रीय संगठन)": [
+    "Objectives of WTO",
+    "Functions of WTO",
+    "India and WTO"
+  ],
+
+  "33: Government Budget (सरकारी बजट)": [
+    "Meaning of Budget",
+    "Types of Budget",
+    "Budget Components",
+    "Importance of Budget"
+  ],
+
+  "34: Taxation System in India (भारत में कर प्रणाली)": [
+    "Direct Tax",
+    "Indirect Tax",
+    "Progressive & Regressive Tax"
+  ],
+
+  "35: Goods and Services Tax – GST (वस्तु एवं सेवा कर)": [
+    "Meaning of GST",
+    "GST Rates & Slabs",
+    "Benefits of GST",
+    "GST Council"
+  ],
+
+  "36: Public Finance (लोक वित्त)": [
+    "Public Revenue",
+    "Public Expenditure",
+    "Public Debt"
+  ],
+
+  "37: Sustainable Development (सतत विकास)": [
+    "Meaning of Sustainable Development",
+    "SDGs",
+    "Environment & Economy"
+  ],
+
+  "38: Inclusive Growth (समावेशी विकास)": [
+    "Meaning of Inclusive Growth",
+    "Indicators",
+    "Government Initiatives"
+  ],
+
+  "39: Digital Economy (डिजिटल अर्थव्यवस्था)": [
+    "Meaning of Digital Economy",
+    "Digital Payments",
+    "FinTech",
+    "Digital India Initiative"
+  ],
+
+  "40: Miscellaneous Economy GK (विविध अर्थव्यवस्था GK)": [
+    "Important Economic Terms",
+    "One-liners",
+    "Frequently Asked Questions"
+  ]
+}

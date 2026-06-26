@@ -1,0 +1,192 @@
+{
+  "1: National Current Affairs (राष्ट्रीय समसामयिक घटनाएँ)": [
+    "Major Government Decisions (महत्वपूर्ण सरकारी निर्णय)",
+    "New Laws & Bills (नए कानून व विधेयक)",
+    "National Events & Developments (राष्ट्रीय घटनाएँ)",
+    "Important Announcements (महत्वपूर्ण घोषणाएँ)"
+  ],
+
+  "2: International Current Affairs (अंतरराष्ट्रीय अंतरराष्ट्रीय घटनाएँ)": [
+    "Global Political Developments (वैश्विक राजनीतिक घटनाएँ)",
+    "India–Other Country Relations (भारत-अन्य देश संबंध)",
+    "International Issues & Conflicts (अंतरराष्ट्रीय विवाद)"
+  ],
+
+  "3: Government Schemes & Policies (सरकारी योजनाएँ  एवं नीतियाँ)": [
+    "New Government Schemes",
+    "Objectives & Beneficiaries",
+    "Ministry-wise Schemes",
+    "Budget-linked Schemes"
+  ],
+
+  "4: Appointments and Resignations (नियुक्तियाँ एवं इस्तीफे)": [
+    "Constitutional Posts",
+    "Government Appointments",
+    "International Appointments",
+    "Resignations & Transfers"
+  ],
+
+  "5: Awards and Honours (पुरस्कार एवं सम्मान)": [
+    "National Awards",
+    "International Awards",
+    "Sports Awards",
+    "Civilian & Military Honours"
+  ],
+
+  "6: Sports Current Affairs (खेल समसामयिकी)": [
+    "Major Sports Events",
+    "Player Achievements",
+    "Records & Milestones",
+    "Sports Appointments"
+  ],
+
+  "7: Defence and Security (रक्षा एवं सुरक्षा)": [
+    "Defence Exercises",
+    "New Defence Deals",
+    "Military Operations",
+    "Security Related Developments"
+  ],
+
+  "8: Economy and Finance Current Affairs (अर्थव्यवस्था एवं वित्त)": [
+    "Economic Indicators",
+    "GDP, Inflation, Growth Data",
+    "Economic Policies",
+    "Financial Reforms"
+  ],
+
+  "9: Science and Technology Current Affairs (विज्ञान एवं प्रौद्योगिकी)": [
+    "New Technologies",
+    "Scientific Discoveries",
+    "Tech Launches",
+    "AI, Space & Innovation"
+  ],
+
+  "10: Environment and Ecology (पर्यावरण एवं पारिस्थितिकी)": [
+    "Climate Change Developments",
+    "Environmental Reports",
+    "Wildlife & Conservation News",
+    "Environmental Agreements"
+  ],
+
+  "11: International Organizations and Summits (अंतरराष्ट्रीय संगठन एवं सम्मेलन)": [
+    "International Summits",
+    "India’s Participation",
+    "Summit Outcomes",
+    "Headquarters & Leadership"
+  ],
+
+  "12: Reports, Indexes and Rankings (रिपोर्ट, सूचकांक एवं रैंकिंग)": [
+    "Global Indexes",
+    "Indian Reports",
+    "Rankings of India",
+    "Issuing Organizations"
+  ],
+
+  "13: Books and Authors – Current (पुस्तकें एवं लेखक)": [
+    "New Books Released",
+    "Authors in News",
+    "Award-winning Books"
+  ],
+
+  "14: Important Days and Themes (महत्वपूर्ण दिवस एवं थीम)": [
+    "National Important Days",
+    "International Days",
+    "Themes of the Year"
+  ],
+
+  "15: Sports Tournaments and Winners (खेल प्रतियोगिता एवं विजेता)": [
+    "Tournament Winners",
+    "Host Countries",
+    "Player of the Tournament"
+  ],
+
+  "16: National & International Agreements (राष्ट्रीय एवं अंतरराष्ट्रीय समझौते)": [
+    "Bilateral Agreements",
+    "Multilateral Agreements",
+    "MoUs Signed"
+  ],
+
+  "17: Government Committees and Commissions (समितियाँ एवं आयोग)": [
+    "New Committees",
+    "Head of Committees",
+    "Purpose & Recommendations"
+  ],
+
+  "18: Judicial and Legal Current Affairs (न्यायिक एवं कानूनी घटनाएँ)": [
+    "Supreme Court Judgments",
+    "High Court Decisions",
+    "Legal Amendments"
+  ],
+
+  "19: Obituaries – Important Personalities (निधन – प्रमुख व्यक्तित्व)": [
+    "National Personalities",
+    "International Personalities",
+    "Contributions & Achievements"
+  ],
+
+  "20: Places in News (समाचारों में स्थान)": [
+    "Indian Places in News",
+    "International Places in News",
+    "Reason for Being in News"
+  ],
+
+  "21: Science Missions and Space Programs (अंतरिक्ष एवं विज्ञान मिशन)": [
+    "ISRO Missions",
+    "NASA / Global Space Missions",
+    "Satellite Launches"
+  ],
+
+  "22: Digital Initiatives & Technology Launches (डिजिटल पहल)": [
+    "Government Digital Initiatives",
+    "New Apps & Portals",
+    "Digital Reforms"
+  ],
+
+  "23: Banking, RBI & Financial Institutions (बैंकिंग एवं RBI)": [
+    "RBI Notifications",
+    "New Banking Policies",
+    "Interest Rates & Monetary Updates"
+  ],
+
+  "24: Budget and Economic Survey – Current (बजट एवं आर्थिक सर्वेक्षण)": [
+    "Union Budget Highlights",
+    "Economic Survey Key Points",
+    "Major Allocations"
+  ],
+
+  "25: National Movements & Campaigns (राष्ट्रीय अभियान)": [
+    "Government Campaigns",
+    "Social Awareness Programs",
+    "National Missions"
+  ],
+
+  "26: Elections & Political Developments (चुनाव एवं राजनीतिक घटनाएँ)": [
+    "Election Results",
+    "Political Alliances",
+    "Major Political Changes"
+  ],
+
+  "27: International Conflicts & Developments (अंतरराष्ट्रीय घटनाक्रम)": [
+    "Wars & Conflicts",
+    "Peace Talks",
+    "Global Crisis"
+  ],
+
+  "28: Culture & Heritage – Current (संस्कृति एवं विरासत)": [
+    "Cultural Events",
+    "GI Tags",
+    "Festivals in News"
+  ],
+
+  "29: Health & Education Current Affairs (स्वास्थ्य एवं शिक्षा)": [
+    "Health Programs",
+    "Disease Outbreaks",
+    "Education Policies & Rankings"
+  ],
+
+  "30: Miscellaneous Current Affairs (विविध समसामयिक तथ्य)": [
+    "One-liners",
+    "Exam Repeated Facts",
+    "Mixed Current Affairs"
+  ]
+}

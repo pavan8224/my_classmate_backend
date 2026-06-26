@@ -1,0 +1,318 @@
+{
+	"1: Some Basic Concepts of Chemistry (रसायन विज्ञान की कुछ मूल अवधारणाएँ)": [
+		"Importance of Chemistry (रसायन विज्ञान का महत्व)",
+		"Matter and its Nature (पदार्थ एवं उसका स्वरूप)",
+		"Laws of Chemical Combination (रासायनिक संयोजन के नियम)",
+		"Dalton’s Atomic Theory (डाल्टन का परमाणु सिद्धांत)",
+		"Atomic and Molecular Mass (परमाणु एवं अणु द्रव्यमान)",
+		"Mole Concept and Avogadro Number (मोल संकल्पना)",
+		"Stoichiometry (स्टॉइकियोमेट्री)",
+		"Limiting Reagent (सीमित अभिकारक)",
+		"Concentration of Solutions (विलयन की सांद्रता)"
+	],
+	"2: Structure of Atom (परमाणु की संरचना)": [
+		"Discovery of Subatomic Particles (उपपरमाण्विक कणों की खोज)",
+		"Atomic Models – Thomson, Rutherford (परमाणु मॉडल)",
+		"Bohr’s Atomic Model (बोहर का मॉडल)",
+		"Quantum Mechanical Model (क्वांटम यांत्रिक मॉडल)",
+		"Orbitals and Quantum Numbers (ऑर्बिटल व क्वांटम संख्याएँ)",
+		"Electronic Configuration (इलेक्ट्रॉनिक विन्यास)",
+		"Aufbau Principle, Pauli Exclusion, Hund’s Rule"
+	],
+	"3: Classification of Elements and Periodicity in Properties (तत्वों का वर्गीकरण एवं गुणों में आवर्तिता)": [
+		"Need for Classification (वर्गीकरण की आवश्यकता)",
+		"Mendeleev’s Periodic Table (मेंडलीफ की आवर्त सारणी)",
+		"Modern Periodic Table (आधुनिक आवर्त सारणी)",
+		"Periodic Trends (आवर्त प्रवृत्तियाँ)",
+		"Atomic Radius (परमाणु त्रिज्या)",
+		"Ionization Enthalpy (आयनन एन्थैल्पी)",
+		"Electron Gain Enthalpy (इलेक्ट्रॉन अभिलाभ एन्थैल्पी)",
+		"Electronegativity (विद्युतऋणात्मकता)"
+	],
+	"4: Chemical Bonding and Molecular Structure (रासायनिक बंधन एवं अणु संरचना)": [
+		"Lewis Concept (लुईस सिद्धांत)",
+		"Ionic Bond (आयनिक बंध)",
+		"Covalent Bond (सहसंयोजक बंध)",
+		"Valence Bond Theory (संयोजकता बंध सिद्धांत)",
+		"VSEPR Theory (VSEPR सिद्धांत)",
+		"Hybridization (संकरण)",
+		"Molecular Orbital Theory (अणु कक्षीय सिद्धांत)",
+		"Hydrogen Bonding (हाइड्रोजन बंध)"
+	],
+	"5: States of Matter (पदार्थ की अवस्थाएँ)": [
+		"Intermolecular Forces (अंतराअणुक बल)",
+		"Gas Laws – Boyle, Charles, Avogadro (गैस नियम)",
+		"Ideal Gas Equation (आदर्श गैस समीकरण)",
+		"Kinetic Theory of Gases (गैसों का गतिज सिद्धांत)",
+		"Liquids – Properties (द्रव के गुण)",
+		"Solid, Liquid and Gaseous States (तीन अवस्थाएँ)"
+	],
+	"6: Thermodynamics (ऊष्मागतिकी)": [
+		"System and Surroundings (तंत्र एवं परिवेश)",
+		"Types of Systems (तंत्र के प्रकार)",
+		"Internal Energy (आंतरिक ऊर्जा)",
+		"First Law of Thermodynamics (प्रथम नियम)",
+		"Enthalpy (एन्थैल्पी)",
+		"Hess’s Law (हेस का नियम)",
+		"Second Law of Thermodynamics (द्वितीय नियम)",
+		"Entropy and Gibbs Free Energy (एंट्रॉपी व गिब्स ऊर्जा)"
+	],
+	"7: Equilibrium (साम्यावस्था)": [
+		"Dynamic Equilibrium (गतिशील साम्य)",
+		"Law of Mass Action (द्रव्यमान क्रिया नियम)",
+		"Equilibrium Constant (साम्य स्थिरांक)",
+		"Le Chatelier’s Principle (ले-शातेलिए सिद्धांत)",
+		"Ionic Equilibrium (आयनिक साम्य)",
+		"pH Scale (पीएच मापनी)",
+		"Acids, Bases and Salts (अम्ल, क्षार एवं लवण)",
+		"Buffer Solutions (बफर विलयन)"
+	],
+	"8: Redox Reactions (ऑक्सीकरण–अपचयन अभिक्रियाएँ)": [
+		"Oxidation and Reduction (ऑक्सीकरण एवं अपचयन)",
+		"Oxidation Number (ऑक्सीकरण संख्या)",
+		"Redox Reactions (रेडॉक्स अभिक्रियाएँ)",
+		"Balancing Redox Equations (रेडॉक्स समीकरण संतुलन)",
+		"Applications of Redox Reactions (उपयोग)"
+	],
+	"9: Hydrogen (हाइड्रोजन)": [
+		"Position of Hydrogen in Periodic Table (आवर्त सारणी में स्थान)",
+		"Isotopes of Hydrogen (हाइड्रोजन के समस्थानिक)",
+		"Preparation of Hydrogen (हाइड्रोजन की तैयारी)",
+		"Properties of Hydrogen (गुण)",
+		"Hydrides – Ionic, Covalent, Metallic (हाइड्राइड)",
+		"Water – Structure and Properties (जल)",
+		"Hydrogen Peroxide (हाइड्रोजन पेरॉक्साइड)"
+	],
+	"10: The s-Block Elements (s-ब्लॉक तत्व)": [
+		"Alkali Metals (क्षार धातु)",
+		"Alkaline Earth Metals (क्षारीय मृदा धातु)",
+		"General Properties (सामान्य गुण)",
+		"Diagonal Relationship (तिर्यक संबंध)",
+		"Important Compounds (महत्वपूर्ण यौगिक)",
+		"Biological Importance (जैविक महत्व)"
+	],
+	
+  "11: Some p-Block Elements (कुछ p-ब्लॉक तत्व)": [
+    "Position of p-Block Elements in Periodic Table (आवर्त सारणी में p-ब्लॉक का स्थान)",
+    "General Electronic Configuration (सामान्य इलेक्ट्रॉनिक विन्यास)",
+    "Group 13 – Boron Family (समूह 13 – बोरॉन समूह)",
+    "Group 14 – Carbon Family (समूह 14 – कार्बन समूह)",
+    "Anomalous Behaviour of Boron and Carbon (बोरॉन व कार्बन का असामान्य व्यवहार)",
+    "Important Compounds of Boron – Borax, Boric Acid (महत्वपूर्ण यौगिक)",
+    "Important Compounds of Carbon – CO, CO₂ (कार्बन के यौगिक)",
+    "Uses of p-Block Elements (p-ब्लॉक तत्वों के उपयोग)"
+  ],
+
+  "12: Organic Chemistry – Basic Principles and Techniques (कार्बनिक रसायन – मूल सिद्धांत एवं तकनीक)": [
+    "Nature of Organic Compounds (कार्बनिक यौगिकों का स्वरूप)",
+    "Classification of Organic Compounds (कार्बनिक यौगिकों का वर्गीकरण)",
+    "Homologous Series (समजातीय श्रेणी)",
+    "Functional Groups (क्रियात्मक समूह)",
+    "IUPAC Nomenclature (IUPAC नामकरण)",
+    "Isomerism – Structural Isomerism (संरचनात्मक समावयवता)",
+    "Stereoisomerism – Geometrical & Optical (स्थानिक समावयवता)",
+    "Electronic Effects – Inductive Effect (प्रेरक प्रभाव)",
+    "Resonance Effect (अनुनाद प्रभाव)",
+    "Hyperconjugation (अतिसंयोजन)",
+    "Reaction Intermediates – Carbocation, Carbanion, Free Radical (अभिक्रिया मध्यवर्ती)",
+    "Purification of Organic Compounds (कार्बनिक यौगिकों का शुद्धिकरण)",
+    "Qualitative and Quantitative Analysis (गुणात्मक एवं मात्रात्मक विश्लेषण)"
+  ],
+
+  "13: Hydrocarbons (हाइड्रोकार्बन)": [
+    "Classification of Hydrocarbons (हाइड्रोकार्बन का वर्गीकरण)",
+    "Alkanes – Preparation, Properties and Reactions (एल्केन)",
+    "Alkenes – Preparation, Properties and Reactions (एल्कीन)",
+    "Alkynes – Preparation, Properties and Reactions (एल्काइन)",
+    "Aromatic Hydrocarbons – Benzene Structure (सुगंधित हाइड्रोकार्बन)",
+    "Electrophilic Substitution Reactions (विद्युतऋणात्मक प्रतिस्थापन अभिक्रियाएँ)",
+    "Carcinogenic Nature of Some Hydrocarbons (कैंसरकारी प्रकृति)",
+    "Uses of Hydrocarbons (हाइड्रोकार्बन के उपयोग)"
+  ],
+
+  "14: Environmental Chemistry (पर्यावरण रसायन)": [
+    "Environmental Pollution (पर्यावरण प्रदूषण)",
+    "Atmospheric Pollution (वायु प्रदूषण)",
+    "Water Pollution (जल प्रदूषण)",
+    "Soil Pollution (मृदा प्रदूषण)",
+    "Greenhouse Effect (ग्रीनहाउस प्रभाव)",
+    "Global Warming (वैश्विक ऊष्मीकरण)",
+    "Ozone Layer Depletion (ओजोन परत क्षय)",
+    "Acid Rain (अम्लीय वर्षा)",
+    "Control of Environmental Pollution (प्रदूषण नियंत्रण उपाय)"
+  ],
+
+  "15: Solid State (ठोस अवस्था)": [
+    "Classification of Solids – Crystalline and Amorphous (ठोसों का वर्गीकरण)",
+    "Crystal Lattice and Unit Cell (क्रिस्टल जालक एवं इकाई कोशिका)",
+    "Packing Efficiency in Solids (पैकिंग दक्षता)",
+    "Calculation of Density of Unit Cell (घनत्व की गणना)",
+    "Imperfections in Solids – Point Defects (ठोसों में दोष)",
+    "Electrical Properties of Solids (ठोसों के विद्युत गुण)",
+    "Magnetic Properties of Solids (चुंबकीय गुण)"
+  ],
+
+  "16: Solutions (विलयन)": [
+    "Types of Solutions (विलयन के प्रकार)",
+    "Solubility of Solids in Liquids (विलेयता)",
+    "Concentration Terms – Molarity, Molality, Normality (सांद्रता)",
+    "Vapour Pressure of Liquid Solutions (वाष्प दाब)",
+    "Raoult’s Law (राउल्ट का नियम)",
+    "Ideal and Non-Ideal Solutions (आदर्श व अनादर्श विलयन)",
+    "Colligative Properties (सहसंयोजी गुण)",
+    "Elevation of Boiling Point (क्वथनांक वृद्धि)",
+    "Depression of Freezing Point (हिमांक अवनमन)",
+    "Osmotic Pressure (परासरण दाब)",
+    "Abnormal Molecular Mass (असामान्य आणविक द्रव्यमान)"
+  ],
+
+  "17: Electrochemistry (विद्युत रसायन)": [
+    "Electrochemical Cells (विद्युत रासायनिक कोशिकाएँ)",
+    "Galvanic and Electrolytic Cells (गैल्वैनिक व विद्युत अपघट्य कोशिका)",
+    "Electrode Potential (इलेक्ट्रोड विभव)",
+    "Standard Electrode Potential (मानक इलेक्ट्रोड विभव)",
+    "Nernst Equation (नर्न्स्ट समीकरण)",
+    "Electrochemical Series (विद्युत रासायनिक श्रेणी)",
+    "Conductance – Specific and Molar (चालकता)",
+    "Electrolysis (विद्युत अपघटन)",
+    "Corrosion (क्षरण)",
+    "Prevention of Corrosion (क्षरण निवारण)"
+  ],
+
+  "18: Chemical Kinetics (रासायनिक गतिकी)": [
+    "Rate of Chemical Reaction (अभिक्रिया की दर)",
+    "Factors Affecting Reaction Rate (दर को प्रभावित करने वाले कारक)",
+    "Rate Law and Rate Constant (दर नियम)",
+    "Order and Molecularity of Reaction (अभिक्रिया का क्रम)",
+    "Integrated Rate Equations (समाकलित दर समीकरण)",
+    "Half Life of Reaction (अर्ध आयु)",
+    "Collision Theory (संघर्ष सिद्धांत)",
+    "Activation Energy (सक्रियण ऊर्जा)"
+  ],
+
+  "19: Surface Chemistry (पृष्ठ रसायन)": [
+    "Adsorption – Physical and Chemical (अधिशोषण)",
+    "Factors Affecting Adsorption (प्रभावक)",
+    "Catalysis (उत्प्रेरण)",
+    "Types of Catalysts (उत्प्रेरक के प्रकार)",
+    "Colloids (कोलॉइड)",
+    "Properties of Colloids (कोलॉइड के गुण)",
+    "Emulsions (इमल्शन)",
+    "Applications of Surface Chemistry (अनुप्रयोग)"
+  ],
+
+  "20: General Principles and Processes of Metallurgy (धातुकर्म के सामान्य सिद्धांत एवं प्रक्रियाएँ)": [
+    "Occurrence of Metals (धातुओं की प्राप्ति)",
+    "Concentration of Ores (अयस्क का सांद्रण)",
+    "Extraction of Metals (धातुओं का निष्कर्षण)",
+    "Thermodynamic Principles of Metallurgy (ऊष्मागतिक सिद्धांत)",
+    "Ellingham Diagram (एलिंगहैम आरेख)",
+    "Refining of Metals (धातु परिष्करण)",
+    "Corrosion of Metals (धातु क्षरण)",
+    "Prevention of Corrosion (क्षरण से सुरक्षा)"
+  ],
+  "21: p-Block Elements (p-ब्लॉक तत्व)": [
+    "Position of p-Block Elements in Periodic Table (p-ब्लॉक तत्वों का स्थान)",
+    "General Electronic Configuration (सामान्य इलेक्ट्रॉनिक विन्यास)",
+    "Group 15 – Nitrogen Family (समूह 15 – नाइट्रोजन समूह)",
+    "Group 16 – Oxygen Family (समूह 16 – ऑक्सीजन समूह)",
+    "Group 17 – Halogens (समूह 17 – हैलोजन)",
+    "Group 18 – Noble Gases (समूह 18 – निष्क्रिय गैसें)",
+    "Anomalous Behaviour of First Element (प्रथम तत्व का असामान्य व्यवहार)",
+    "Important Compounds – NH₃, HNO₃, O₃, H₂SO₄, Halides (महत्वपूर्ण यौगिक)",
+    "Uses of p-Block Elements (उपयोग)"
+  ],
+
+  "22: d and f Block Elements (d एवं f ब्लॉक तत्व)": [
+    "Position in Periodic Table (आवर्त सारणी में स्थान)",
+    "General Characteristics of d-Block Elements (d-ब्लॉक के सामान्य गुण)",
+    "Transition Elements – Properties (संक्रमण तत्व)",
+    "Important Compounds of Transition Metals (महत्वपूर्ण यौगिक)",
+    "Lanthanoids – Properties and Uses (लैंथेनॉइड)",
+    "Actinoids – Properties and Uses (ऐक्टिनॉइड)",
+    "Comparison of Lanthanoids and Actinoids (तुलना)",
+    "Applications of d and f Block Elements (अनुप्रयोग)"
+  ],
+
+  "23: Coordination Compounds (समन्वय यौगिक)": [
+    "Werner’s Theory (वर्नर का सिद्धांत)",
+    "Terms – Ligand, Coordination Number, Coordination Sphere (पदावली)",
+    "Nomenclature of Coordination Compounds (नामकरण)",
+    "Isomerism in Coordination Compounds (समावयवता)",
+    "Valence Bond Theory (संयोजक बंध सिद्धांत)",
+    "Crystal Field Theory (क्रिस्टल क्षेत्र सिद्धांत)",
+    "Magnetic Properties (चुंबकीय गुण)",
+    "Stability of Coordination Compounds (स्थायित्व)",
+    "Applications of Coordination Compounds (उपयोग)"
+  ],
+
+  "24: Haloalkanes and Haloarenes (हेलोएल्केन एवं हेलोएरीन)": [
+    "Classification of Haloalkanes and Haloarenes (वर्गीकरण)",
+    "Nomenclature (नामकरण)",
+    "Nature of C–X Bond (C–X बंध का स्वभाव)",
+    "Preparation of Haloalkanes (तैयारी)",
+    "Physical Properties (भौतिक गुण)",
+    "Chemical Reactions – Substitution, Elimination (रासायनिक अभिक्रियाएँ)",
+    "Haloarenes – Properties and Reactions (हेलोएरीन)",
+    "Uses and Environmental Effects (उपयोग व प्रभाव)"
+  ],
+
+  "25: Alcohols, Phenols and Ethers (एल्कोहल, फिनॉल एवं ईथर)": [
+    "Classification and Nomenclature (वर्गीकरण व नामकरण)",
+    "Preparation of Alcohols (एल्कोहल की तैयारी)",
+    "Physical Properties of Alcohols and Phenols (भौतिक गुण)",
+    "Chemical Reactions of Alcohols (एल्कोहल की अभिक्रियाएँ)",
+    "Phenols – Preparation and Properties (फिनॉल)",
+    "Ethers – Preparation and Properties (ईथर)",
+    "Uses of Alcohols, Phenols and Ethers (उपयोग)"
+  ],
+
+  "26: Aldehydes, Ketones and Carboxylic Acids (एल्डिहाइड, कीटोन एवं कार्बोक्सिलिक अम्ल)": [
+    "Nomenclature (नामकरण)",
+    "Preparation of Aldehydes and Ketones (तैयारी)",
+    "Physical Properties (भौतिक गुण)",
+    "Chemical Reactions – Nucleophilic Addition (अभिक्रियाएँ)",
+    "Preparation of Carboxylic Acids (कार्बोक्सिलिक अम्ल)",
+    "Chemical Properties of Carboxylic Acids (रासायनिक गुण)",
+    "Uses of Aldehydes, Ketones and Acids (उपयोग)"
+  ],
+
+  "27: Amines (अमाइन्स)": [
+    "Classification of Amines (अमाइन्स का वर्गीकरण)",
+    "Nomenclature (नामकरण)",
+    "Preparation of Amines (अमाइन्स की तैयारी)",
+    "Physical Properties (भौतिक गुण)",
+    "Chemical Reactions of Amines (रासायनिक अभिक्रियाएँ)",
+    "Diazotization and Coupling Reaction (डायजोकरण)",
+    "Uses of Amines (उपयोग)"
+  ],
+
+  "28: Biomolecules (जैव अणु)": [
+    "Carbohydrates – Classification and Functions (कार्बोहाइड्रेट)",
+    "Proteins – Structure and Functions (प्रोटीन)",
+    "Enzymes (एंजाइम)",
+    "Vitamins (विटामिन)",
+    "Nucleic Acids – DNA and RNA (न्यूक्लिक अम्ल)",
+    "Hormones (हार्मोन)"
+  ],
+
+  "29: Polymers (बहुलक)": [
+    "Introduction to Polymers (बहुलक परिचय)",
+    "Classification of Polymers (बहुलकों का वर्गीकरण)",
+    "Types of Polymerisation (बहुलकीकरण)",
+    "Addition and Condensation Polymers (योग व संघनन बहुलक)",
+    "Important Polymers – PVC, Nylon, Teflon, Bakelite (महत्वपूर्ण बहुलक)",
+    "Biodegradable Polymers (जैव अपघटनीय बहुलक)",
+    "Uses of Polymers (उपयोग)"
+  ],
+
+  "30: Chemistry in Everyday Life (दैनिक जीवन में रसायन)": [
+    "Drugs and Medicines (औषधियाँ)",
+    "Analgesics, Antipyretics, Antibiotics (दवाइयों के प्रकार)",
+    "Antiseptics and Disinfectants (एंटीसेप्टिक व कीटाणुनाशक)",
+    "Soaps and Detergents (साबुन एवं डिटर्जेंट)",
+    "Cleansing Action of Soaps (साफ़ करने की क्रिया)",
+    "Food Additives (खाद्य योजक)",
+    "Chemicals in Cosmetics (सौंदर्य प्रसाधन रसायन)"
+  ]
+}

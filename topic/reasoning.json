@@ -1,0 +1,183 @@
+{
+	"1: Introduction to Reasoning (तर्कशक्ति का परिचय)": [
+		"Meaning of Reasoning (तर्कशक्ति का अर्थ)",
+		"Types of Reasoning – Verbal \u0026 Non-Verbal (प्रकार)",
+		"Importance of Reasoning in Exams (महत्व)"
+	],
+	"2: Analogy (सादृश्य)": [
+		"Word Analogy (शब्द सादृश्य)",
+		"Number Analogy (संख्या सादृश्य)",
+		"Alphabet Analogy (वर्णमाला सादृश्य)",
+		"Figure Analogy (आकृति सादृश्य)"
+	],
+	"3: Classification / Odd One Out (वर्गीकरण)": [
+		"Word Classification (शब्द वर्गीकरण)",
+		"Number Classification (संख्या वर्गीकरण)",
+		"Alphabet Classification (वर्ण वर्गीकरण)",
+		"Figure Classification (आकृति वर्गीकरण)"
+	],
+	"4: Series (श्रृंखला)": [
+		"Number Series (संख्या श्रृंखला)",
+		"Alphabet Series (वर्ण श्रृंखला)",
+		"Alphanumeric Series (अल्फ़ान्यूमेरिक)",
+		"Missing Number Series (लुप्त संख्या)"
+	],
+	"5: Coding–Decoding (कोडिंग–डिकोडिंग)": [
+		"Letter Coding (अक्षर कोडिंग)",
+		"Number Coding (संख्या कोडिंग)",
+		"Substitution Coding (प्रतिस्थापन)",
+		"Matrix Coding (मैट्रिक्स)",
+		"Symbol Coding (प्रतीक कोडिंग)"
+	],
+	"6: Blood Relation (रक्त संबंध)": [
+		"Basic Family Relations (मूल संबंध)",
+		"Coded Blood Relations (कोडित संबंध)",
+		"Generation Based Questions (पीढ़ी आधारित)",
+		"Puzzle Based Blood Relation (पहेली)"
+	],
+	"7: Direction Sense Test (दिशा ज्ञान)": [
+		"Basic Directions (मूल दिशाएँ)",
+		"Left–Right Direction (बाएँ–दाएँ)",
+		"Distance \u0026 Direction (दूरी व दिशा)",
+		"Shadow Based Direction (छाया आधारित)"
+	],
+	"8: Order and Ranking (क्रम एवं स्थान)": [
+		"Position from Top/Bottom (ऊपर–नीचे से)",
+		"Ranking in Row/Line (पंक्ति क्रम)",
+		"Comparison Based Ranking (तुलना)"
+	],
+	"9: Seating Arrangement (बैठक व्यवस्था)": [
+		"Linear Arrangement (रेखीय व्यवस्था)",
+		"Circular Arrangement (वृत्तीय व्यवस्था)",
+		"Square/Rectangle Arrangement",
+		"Uncertain Seating Arrangement"
+	],
+	"10: Puzzle Test (पहेली परीक्षण)": [
+		"Floor Based Puzzle (मंज़िल आधारित)",
+		"Box Based Puzzle (डिब्बा आधारित)",
+		"Scheduling Puzzle (समय आधारित)",
+		"Mixed Puzzle"
+	],
+	"11: Syllogism (न्यायवाक्य)": [
+		"Basic Syllogism (मूल अवधारणा)",
+		"Venn Diagram Method (वेन आरेख)",
+		"Possibility Cases",
+		"Either–Or Conclusions"
+	],
+	"12: Statement and Conclusion (कथन एवं निष्कर्ष)": [
+		"Understanding Statements (कथन समझना)",
+		"Valid and Invalid Conclusions",
+		"Assumption Based Conclusions"
+	],
+	"13: Statement and Assumption (कथन एवं मान्यता)": [
+		"Meaning of Assumption (मान्यता)",
+		"Implicit \u0026 Explicit Assumptions",
+		"Practice Based Questions"
+	],
+	"14: Statement and Argument (कथन एवं तर्क)": [
+		"Strong and Weak Arguments",
+		"Course of Argument",
+		"Fact vs Opinion"
+	],
+	"15: Statement and Course of Action (कथन एवं कार्यवाही)": [
+		"Appropriate Course of Action",
+		"Inappropriate Course",
+		"Practical Decision Making"
+	],
+	"16: Cause and Effect (कारण एवं प्रभाव)": [
+		"Identifying Cause (कारण पहचान)",
+		"Identifying Effect (प्रभाव पहचान)",
+		"Cause–Effect Relationship"
+	],
+	"17: Logical Venn Diagram (वेन आरेख)": [
+		"Two Set Venn Diagram",
+		"Three Set Venn Diagram",
+		"Logical Venn Questions"
+	],
+	"18: Inequality (असमानता)": [
+		"Basic Inequality Symbols",
+		"Coded Inequality",
+		"Multiple Inequality Statements"
+	],
+	"19: Mathematical Operations (गणितीय संक्रियाएँ)": [
+		"Symbol Based Operations",
+		"Replacement Operations",
+		"BODMAS Based Reasoning"
+	],
+	"20: Alphabet Test (वर्णमाला परीक्षण)": [
+		"Alphabet Position",
+		"Alphabet Series Test",
+		"Word Formation Test"
+	],
+	"21: Clock and Calendar (घड़ी एवं कैलेंडर)": [
+		"Clock Angle Problems",
+		"Time Based Clock Questions",
+		"Calendar – Day \u0026 Date",
+		"Leap Year Questions"
+	],
+	"22: Dice (पासा)": [
+		"Dice Faces Identification",
+		"Opposite Faces",
+		"Two Dice / Multiple Dice"
+	],
+	"23: Cube and Cuboid (घन एवं घनाभ)": [
+		"Cube Folding",
+		"Cube Cutting",
+		"Painted Cube Questions"
+	],
+	"24: Mirror Image (दर्पण प्रतिबिंब)": [
+		"Mirror Image of Figures",
+		"Mirror Image of Words",
+		"Alphabet Mirror Image"
+	],
+	"25: Water Image (जल प्रतिबिंब)": [
+		"Water Image of Figures",
+		"Word Water Image",
+		"Difference between Mirror \u0026 Water Image"
+	],
+	"26: Paper Folding and Cutting (कागज मोड़ना एवं काटना)": [
+		"Paper Folding",
+		"Paper Cutting",
+		"Hole Punching Problems"
+	],
+	"27: Figure Completion (आकृति पूर्णता)": [
+		"Incomplete Figure Completion",
+		"Pattern Based Figures"
+	],
+	"28: Embedded Figures (छिपी आकृतियाँ)": [
+		"Finding Hidden Figures",
+		"Overlapping Figures"
+	],
+	"29: Non-Verbal Analogy (अशाब्दिक सादृश्य)": [
+		"Figure Analogy",
+		"Pattern Based Analogy"
+	],
+	"30: Non-Verbal Series (अशाब्दिक श्रृंखला)": [
+		"Figure Series",
+		"Pattern Series"
+	],
+	"31: Non-Verbal Classification (अशाब्दिक वर्गीकरण)": [
+		"Figure Based Classification",
+		"Odd Figure Out"
+	],
+	"32: Data Sufficiency (डेटा पर्याप्तता)": [
+		"Statement Analysis",
+		"Sufficient vs Insufficient Data",
+		"Decision Based Questions"
+	],
+	"33: Assertion and Reason (कथन एवं कारण)": [
+		"Assertion–Reason Relationship",
+		"True–False Logic",
+		"Cause Based Reasoning"
+	],
+	"34: Decision Making (निर्णय क्षमता)": [
+		"Situation Based Decision",
+		"Logical Decision Making",
+		"Best Alternative Selection"
+	],
+	"35: Input–Output (इनपुट–आउटपुट)": [
+		"Word Based Input–Output",
+		"Number Based Input–Output",
+		"Step Arrangement Questions"
+	]
+}

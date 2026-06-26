@@ -1,0 +1,184 @@
+{
+	"1: Introduction to Geography (भूगोल का परिचय)": [
+		"Meaning and Scope of Geography (भूगोल का अर्थ एवं क्षेत्र)",
+		"Branches of Geography (भौतिक, मानव, आर्थिक)",
+		"Importance of Geography (भूगोल का महत्व)"
+	],
+	"2: The Earth and Universe (पृथ्वी एवं ब्रह्मांड)": [
+		"{",
+		"Solar System (सौरमंडल)",
+		"Planets and Earth’s Uniqueness (ग्रह व पृथ्वी)"
+	],
+	"3: Latitudes and Longitudes (अक्षांश एवं देशांतर)": [
+		"Important Latitudes (महत्वपूर्ण अक्षांश)",
+		"Longitudes and Time Calculation (देशांतर व समय)",
+		"Heat Zones (ताप कटिबंध)",
+		"Indian Standard Time – IST (भारतीय समय)"
+	],
+	"4: Motions of the Earth (पृथ्वी की गतियाँ)": [
+		"Rotation (घूर्णन)",
+		"Revolution (परिक्रमण)",
+		"Day–Night and Seasons (दिन-रात, ऋतुएँ)"
+	],
+	"5: Structure of the Earth (पृथ्वी की संरचना)": [
+		"Crust, Mantle and Core (भूपर्पटी, मैंटल, क्रोड)",
+		"Earthquakes (भूकंप)",
+		"Volcanoes (ज्वालामुखी)"
+	],
+	"6: Rocks and Minerals (शैल एवं खनिज)": [
+		"Types of Rocks (आग्नेय, अवसादी, कायांतरित)",
+		"Rock Cycle (शैल चक्र)",
+		"Minerals – Metallic \u0026 Non-metallic (खनिज)"
+	],
+	"7: Geomorphic Processes (भू-आकृतिक प्रक्रियाएँ)": [
+		"Endogenic and Exogenic Processes (आंतरिक व बाह्य)",
+		"Weathering (अपक्षय)",
+		"Erosion and Deposition (अपरदन व निक्षेपण)"
+	],
+	"8: Landforms of the Earth (पृथ्वी की स्थलाकृतियाँ)": [
+		"Mountains, Plateaus, Plains (पर्वत, पठार, मैदान)",
+		"Landforms by Rivers, Wind, Glaciers, Sea"
+	],
+	"9: Atmosphere – Composition and Structure (वायुमंडल – संरचना)": [
+		"Composition of Atmosphere (संरचना)",
+		"Layers of Atmosphere (परतें)",
+		"Ozone Layer (ओजोन परत)"
+	],
+	"10: Temperature and Heat Budget (तापमान एवं ऊष्मा संतुलन)": [
+		"Insolation (सौर विकिरण)",
+		"Factors Affecting Temperature (कारक)",
+		"Heat Budget (ऊष्मा संतुलन)"
+	],
+	"11: Atmospheric Pressure and Winds (वायुदाब एवं पवनें)": [
+		"Pressure Belts (दाब पट्टियाँ)",
+		"Planetary Winds (स्थायी पवनें)",
+		"Local Winds (स्थानीय पवनें)"
+	],
+	"12: Humidity and Precipitation (आर्द्रता एवं वर्षा)": [
+		"Humidity (आर्द्रता)",
+		"Clouds (मेघ)",
+		"Types of Rainfall (वर्षा के प्रकार)"
+	],
+	"13: Climate and Weather (जलवायु एवं मौसम)": [
+		"Weather vs Climate (अंतर)",
+		"Climatic Factors (कारक)",
+		"Climate Classification (वर्गीकरण)"
+	],
+	"14: Climatic Regions of the World (विश्व की जलवायु प्रदेश)": [
+		"Equatorial Climate (भूमध्य)",
+		"Tropical \u0026 Temperate Climate (उष्ण, समशीतोष्ण)",
+		"Polar Climate (ध्रुवीय)"
+	],
+	"15: Oceanography – Ocean Relief (महासागरीय भू-आकृति)": [
+		"Ocean Floor Relief (महासागरीय तल)",
+		"Continental Shelf \u0026 Deep Sea Plains"
+	],
+	"16: Ocean Currents (महासागरीय धाराएँ)": [
+		"Warm and Cold Currents (गरम व ठंडी धाराएँ)",
+		"Major Ocean Currents (मुख्य धाराएँ)",
+		"Effects on Climate (प्रभाव)"
+	],
+	"17: Tides and Waves (ज्वार-भाटा एवं तरंगें)": [
+		"Tides – Types (ज्वार के प्रकार)",
+		"Ocean Waves (तरंगें)",
+		"Tsunami (सुनामी)"
+	],
+	"18: Biosphere and Ecosystem (जैवमंडल एवं पारिस्थितिकी तंत्र)": [
+		"Biosphere (जैवमंडल)",
+		"Ecosystem (पारिस्थितिकी तंत्र)",
+		"Food Chain \u0026 Food Web (खाद्य श्रृंखला)"
+	],
+	"19: Soil – Formation and Types (मृदा – निर्माण एवं प्रकार)": [
+		"Soil Formation (मृदा निर्माण)",
+		"Types of Soil (मृदा के प्रकार)",
+		"Soil Erosion (मृदा अपरदन)"
+	],
+	"20: Natural Vegetation and Wildlife (प्राकृतिक वनस्पति एवं वन्यजीव)": [
+		"Types of Vegetation (वनस्पति प्रकार)",
+		"Wildlife Conservation (वन्यजीव संरक्षण)"
+	],
+	"21: Resources – Types and Distribution (संसाधन – प्रकार एवं वितरण)": [
+		"Renewable \u0026 Non-renewable Resources (नवीकरणीय)",
+		"Resource Distribution (वितरण)"
+	],
+	"22: Agriculture Geography (कृषि भूगोल)": [
+		"Types of Agriculture (कृषि के प्रकार)",
+		"Major Crops (मुख्य फसलें)"
+	],
+	"23: Mineral and Power Resources (खनिज एवं ऊर्जा संसाधन)": [
+		"Metallic \u0026 Non-metallic Minerals",
+		"Conventional \u0026 Non-conventional Energy"
+	],
+	"24: Industries – Types and Location (उद्योग – प्रकार एवं अवस्थिति)": [
+		"Types of Industries (उद्योग प्रकार)",
+		"Industrial Regions (औद्योगिक क्षेत्र)"
+	],
+	"25: Transport and Communication (परिवहन एवं संचार)": [
+		"Means of Transport (परिवहन साधन)",
+		"Communication Networks (संचार)"
+	],
+	"26: Population Geography (जनसंख्या भूगोल)": [
+		"Population Density (जनसंख्या घनत्व)",
+		"Population Growth (वृद्धि)",
+		"Migration (प्रवास)"
+	],
+	"27: Human Settlements (मानव बस्तियाँ)": [
+		"Rural and Urban Settlements (ग्रामीण व नगरीय)",
+		"Settlement Patterns (बस्ती प्रतिरूप)"
+	],
+	"28: Environmental Geography (पर्यावरण भूगोल)": [
+		"Environmental Pollution (प्रदूषण)",
+		"Global Warming \u0026 Climate Change"
+	],
+	"29: Geography of India – Physical Features (भारत का भौतिक भूगोल)": [
+		"Himalayas (हिमालय)",
+		"Northern Plains (उत्तरी मैदान)",
+		"Peninsular Plateau (प्रायद्वीपीय पठार)"
+	],
+	"30: Drainage System of India (भारत की नदी प्रणाली)": [
+		"Himalayan Rivers (हिमालयी नदियाँ)",
+		"Peninsular Rivers (प्रायद्वीपीय नदियाँ)"
+	],
+	"31: Climate of India (भारत की जलवायु)": [
+		"Monsoon Mechanism (मानसून)",
+		"Seasons of India (ऋतुएँ)"
+	],
+	"32: Soils of India (भारत की मृदाएँ)": [
+		"Alluvial, Black, Red Soil (मृदा प्रकार)",
+		"Soil Distribution (वितरण)"
+	],
+	"33: Natural Vegetation of India (भारत की प्राकृतिक वनस्पति)": [
+		"Forest Types of India (वन प्रकार)",
+		"Conservation of Forests (संरक्षण)"
+	],
+	"34: Agriculture of India (भारत की कृषि)": [
+		"Kharif, Rabi, Zaid Crops (फसलें)",
+		"Cropping Patterns (फसल चक्र)"
+	],
+	"35: Mineral Resources of India (भारत में खनिज संसाधन)": [
+		"Iron, Coal, Bauxite (लौह, कोयला)",
+		"Distribution of Minerals (वितरण)"
+	],
+	"36: Industries of India (भारत के उद्योग)": [
+		"Iron and Steel Industry",
+		"Cotton and Sugar Industry"
+	],
+	"37: Transport and Communication in India (भारत में परिवहन एवं संचार)": [
+		"Roadways, Railways, Airways",
+		"Ports of India (बंदरगाह)"
+	],
+	"38: Population of India (भारत की जनसंख्या)": [
+		"Census of India (जनगणना)",
+		"Population Distribution (वितरण)"
+	],
+	"39: Map Reading and Cartography (मानचित्र अध्ययन एवं कार्टोग्राफी)": [
+		"Map Symbols (मानचित्र चिन्ह)",
+		"Scale and Direction (मापक)",
+		"Latitude–Longitude on Map"
+	],
+	"40: Disaster Management – Geography Aspect (आपदा प्रबंधन – भूगोल)": [
+		"Natural Disasters (प्राकृतिक आपदाएँ)",
+		"Disaster Mitigation (निवारण)",
+		"Disaster Management Cycle"
+	]
+}

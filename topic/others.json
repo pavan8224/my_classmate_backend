@@ -1,0 +1,150 @@
+{
+  "1: Space Science & Astronomy (अंतरिक्ष विज्ञान एवं खगोल)": [
+    "Universe & Galaxies (ब्रह्मांड व आकाशगंगाएँ)",
+    "Stars, Planets, Satellites (तारे, ग्रह, उपग्रह)",
+    "Solar System Facts (सौरमंडल तथ्य)",
+    "Black Hole, Nebula, Supernova (ब्लैक होल आदि)",
+    "Asteroids, Comets, Meteors (क्षुद्रग्रह, धूमकेतु)"
+  ],
+
+  "2: Space Missions & Agencies (अंतरिक्ष मिशन एवं एजेंसियाँ)": [
+    "ISRO Missions (चंद्रयान, मंगलयान, आदित्य)",
+    "NASA, ESA, Roscosmos (विदेशी एजेंसियाँ)",
+    "Satellite Types (उपग्रह के प्रकार)",
+    "Launch Vehicles (PSLV, GSLV)",
+    "Space Stations (ISS आदि)"
+  ],
+
+  "3: Defence Technology & Weapons (रक्षा तकनीक एवं हथियार)": [
+    "Modern Defence Technology",
+    "Indian Defence Systems",
+    "Fighter Jets, Submarines, Tanks",
+    "Electronic Warfare",
+    "Indigenous Defence Projects"
+  ],
+
+  "4: Missiles & Missile Systems (मिसाइल प्रणाली)": [
+    "Ballistic vs Cruise Missiles",
+    "Agni Missile Series",
+    "Prithvi, BrahMos, Akash",
+    "Surface to Air / Surface to Surface Missiles",
+    "Missile Ranges & Capabilities"
+  ],
+
+  "5: Nuclear Science & Atomic Terms (परमाणु विज्ञान)": [
+    "Atomic Structure (परमाणु संरचना)",
+    "Nuclear Fission & Fusion",
+    "Radioactivity",
+    "Nuclear Reactors",
+    "Nuclear Weapons – Basics"
+  ],
+
+  "6: Awards, Titles & Honours – Special (विशेष पुरस्कार)": [
+    "International Special Awards",
+    "Science & Technology Awards",
+    "Defence & Peace Awards",
+    "Newly Introduced Awards"
+  ],
+
+  "7: Important Discoveries & Innovations (खोज एवं नवाचार)": [
+    "Scientific Discoveries",
+    "Important Inventions",
+    "Inventors & Years",
+    "Modern Innovations"
+  ],
+
+  "8: Science Facts & Superlatives (विज्ञान तथ्य)": [
+    "Fastest, Largest, Smallest (विज्ञान)",
+    "Human Body Science Facts",
+    "Physics & Chemistry One-liners",
+    "Biology One-liners"
+  ],
+
+  "9: Health, Diseases & Vaccines (स्वास्थ्य)": [
+    "Major Diseases",
+    "Vaccines & Immunization",
+    "Pandemics & Epidemics",
+    "Health Programs (science-based)"
+  ],
+
+  "10: Biotechnology & Genetics – Basics (जैव प्रौद्योगिकी)": [
+    "DNA, RNA, Genes",
+    "Genetic Engineering",
+    "Cloning",
+    "GM Crops",
+    "Biotechnology Applications"
+  ],
+
+  "11: Information Technology – Advanced Topics (आईटी)": [
+    "Internet Technologies",
+    "Cloud Computing",
+    "Blockchain Basics",
+    "Quantum Computing (Basics)",
+    "Data Science Concepts"
+  ],
+
+  "12: Artificial Intelligence, Robotics & Automation (AI)": [
+    "Artificial Intelligence Basics",
+    "Machine Learning",
+    "Robotics",
+    "Automation Systems",
+    "AI Applications"
+  ],
+
+  "13: Cyber World & Emerging Threats (साइबर जगत)": [
+    "Cyber Crime Types",
+    "Hacking & Phishing",
+    "Malware & Ransomware",
+    "Cyber Security Measures",
+    "Cyber Laws – Basics"
+  ],
+
+  "14: Energy, Power & New Technologies (ऊर्जा)": [
+    "Renewable Energy",
+    "Non-renewable Energy",
+    "Solar, Wind, Nuclear Power",
+    "Hydrogen Energy",
+    "Green Technology"
+  ],
+
+  "15: Climate, Space & Earth Combined Phenomena (संयुक्त घटनाएँ)": [
+    "El Niño & La Niña",
+    "Solar Storms",
+    "Geomagnetic Storms",
+    "Climate–Space Interaction"
+  ],
+
+  "16: International Days – Science & Tech Based (दिवस)": [
+    "Science Related International Days",
+    "Space & Technology Days",
+    "Themes of Science Days"
+  ],
+
+  "17: Institutions, Labs & Research Bodies (अनुसंधान संस्थान)": [
+    "Indian Research Institutions",
+    "International Research Bodies",
+    "Scientific Laboratories",
+    "Headquarters & Functions"
+  ],
+
+  "18: Science-based Schemes & Missions (विज्ञान आधारित योजनाएँ)": [
+    "Government Science Missions",
+    "Technology Schemes",
+    "Innovation Programs",
+    "Startup & Research Schemes"
+  ],
+
+  "19: Important Personalities – Science & Tech (वैज्ञानिक)": [
+    "Indian Scientists",
+    "International Scientists",
+    "Nobel Laureates (Science)",
+    "Scientists in News"
+  ],
+
+  "20: Miscellaneous Others GK (विविध)": [
+    "Mixed One-liners",
+    "Exam Trap Topics",
+    "Frequently Asked Misc Facts",
+    "Unclassified Important Facts"
+  ]
+}

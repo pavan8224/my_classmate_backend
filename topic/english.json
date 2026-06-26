@@ -1,0 +1,201 @@
+{
+	"1: Alphabet and Pronunciation (वर्णमाला एवं उच्चारण)": [
+		"English Alphabet (अंग्रेज़ी वर्णमाला)",
+		"Vowels and Consonants (स्वर एवं व्यंजन)",
+		"Pronunciation Rules (उच्चारण नियम)",
+		"Silent Letters (मौन अक्षर)",
+		"Word Stress (शब्द उच्चारण बल)"
+	],
+	"2: Parts of Speech (शब्द भेद)": [
+		"Definition of Parts of Speech (परिभाषा)",
+		"Types of Parts of Speech (प्रकार)",
+		"Usage in Sentence (वाक्य में प्रयोग)"
+	],
+	"3: Noun (संज्ञा)": [
+		"Definition of Noun (संज्ञा की परिभाषा)",
+		"Types of Noun – Proper, Common, Collective, Abstract (प्रकार)",
+		"Countable and Uncountable Nouns (गणनीय-अगणनीय)",
+		"Gender and Number (लिंग एवं वचन)"
+	],
+	"4: Pronoun (सर्वनाम)": [
+		"Definition of Pronoun (सर्वनाम)",
+		"Types – Personal, Reflexive, Relative, Demonstrative, Interrogative",
+		"Correct Use of Pronouns (सही प्रयोग)"
+	],
+	"5: Adjective (विशेषण)": [
+		"Definition of Adjective (विशेषण)",
+		"Types of Adjectives (प्रकार)",
+		"Order of Adjectives (विशेषण क्रम)",
+		"Comparison of Adjectives (तुलना)"
+	],
+	"6: Verb (क्रिया)": [
+		"Main Verb and Auxiliary Verb (मुख्य व सहायक क्रिया)",
+		"Forms of Verb (क्रिया के रूप)",
+		"Regular and Irregular Verbs (नियमित-अनियमित)",
+		"Finite and Non-finite Verbs"
+	],
+	"7: Tense (काल)": [
+		"Present Tense – Simple, Continuous, Perfect, Perfect Continuous",
+		"Past Tense – All Forms",
+		"Future Tense – All Forms",
+		"Uses of Tenses (प्रयोग)"
+	],
+	"8: Subject–Verb Agreement (कर्ता–क्रिया सामंजस्य)": [
+		"Basic Rules of Agreement (मूल नियम)",
+		"Agreement with Collective Nouns",
+		"Either–Or / Neither–Nor Rules",
+		"Common Errors"
+	],
+	"9: Articles – A, An, The (आर्टिकल)": [
+		"Definite and Indefinite Articles",
+		"Rules of A, An, The",
+		"Omission of Articles",
+		"Exam Based Usage"
+	],
+	"10: Voice – Active and Passive (कर्तृवाच्य एवं कर्मवाच्य)": [
+		"Active Voice (कर्तृवाच्य)",
+		"Passive Voice (कर्मवाच्य)",
+		"Rules of Voice Change",
+		"Voice with Tenses"
+	],
+	"11: Narration / Direct & Indirect Speech (प्रत्यक्ष एवं अप्रत्यक्ष कथन)": [
+		"Direct Speech",
+		"Indirect Speech",
+		"Rules of Narration Change",
+		"Change of Tense, Pronoun, Time"
+	],
+	"12: Preposition (पूर्वसर्ग)": [
+		"Definition of Preposition",
+		"Types of Prepositions",
+		"Use of At, In, On, By, For, Since",
+		"Preposition Errors"
+	],
+	"13: Conjunction (समुच्चयबोधक)": [
+		"Types – Coordinating, Subordinating, Correlative",
+		"Use of And, But, Or, Because",
+		"Common Errors"
+	],
+	"14: Interjection (विस्मयादिबोधक)": [
+		"Definition of Interjection",
+		"Types of Interjections",
+		"Use in Sentence"
+	],
+	"15: Modals (मोडल सहायक क्रियाएँ)": [
+		"Can, Could, May, Might",
+		"Shall, Should, Will, Would",
+		"Must, Ought to, Need",
+		"Uses and Differences"
+	],
+	"16: Sentence and Its Types (वाक्य एवं उसके प्रकार)": [
+		"Assertive Sentence",
+		"Interrogative Sentence",
+		"Imperative Sentence",
+		"Exclamatory Sentence"
+	],
+	"17: Transformation of Sentences (वाक्य परिवर्तन)": [
+		"Affirmative to Negative",
+		"Assertive to Interrogative",
+		"Simple to Compound / Complex",
+		"Degree Change"
+	],
+	"18: Question Tags (प्रश्नवाचक टैग)": [
+		"Positive–Negative Tags",
+		"Negative–Positive Tags",
+		"Imperative Sentence Tags",
+		"Common Errors"
+	],
+	"19: Clauses and Phrases (उपवाक्य एवं पदबंध)": [
+		"Phrase – Definition and Types",
+		"Clause – Definition and Types",
+		"Noun Clause, Adjective Clause, Adverb Clause"
+	],
+	"20: Determiners (निर्धारक)": [
+		"Articles as Determiners",
+		"Demonstratives – This, That",
+		"Quantifiers – Some, Any, Much, Many",
+		"Possessive Determiners"
+	],
+	"21: Adverb (क्रिया विशेषण)": [
+		"Types of Adverbs",
+		"Position of Adverbs",
+		"Comparison of Adverbs",
+		"Common Errors"
+	],
+	"22: Degree of Comparison (तुलना की डिग्री)": [
+		"Positive Degree",
+		"Comparative Degree",
+		"Superlative Degree",
+		"Rules of Degree Change"
+	],
+	"23: Vocabulary (शब्दावली)": [
+		"Word Meanings",
+		"Usage in Sentence",
+		"Exam Oriented Vocabulary",
+		"Daily Use Words"
+	],
+	"24: Synonyms and Antonyms (पर्यायवाची एवं विलोम)": [
+		"Synonyms (पर्यायवाची)",
+		"Antonyms (विलोम)",
+		"One Word Multiple Meanings"
+	],
+	"25: One Word Substitution (एक शब्द प्रतिस्थापन)": [
+		"Person Based Words",
+		"Profession Based Words",
+		"Action Based Words",
+		"Exam Important One Word"
+	],
+	"26: Idioms and Phrases (मुहावरे एवं वाक्यांश)": [
+		"Common Idioms",
+		"Meaning of Idioms",
+		"Use in Sentence",
+		"Exam Based Idioms"
+	],
+	"27: Spelling Test (वर्तनी परीक्षण)": [
+		"Correct Spelling",
+		"Commonly Confused Words",
+		"Spelling Error Questions"
+	],
+	"28: Error Detection (त्रुटि पहचान)": [
+		"Grammar Based Errors",
+		"Tense Errors",
+		"Article and Preposition Errors",
+		"Practice Questions"
+	],
+	"29: Sentence Improvement / Correction (वाक्य सुधार)": [
+		"Grammatical Correction",
+		"Meaning Based Correction",
+		"Sentence Replacement"
+	],
+	"30: Fill in the Blanks (रिक्त स्थान पूर्ति)": [
+		"Grammar Based Fillers",
+		"Vocabulary Based Fillers",
+		"Multiple Blanks Questions"
+	],
+	"31: Cloze Test (क्लोज टेस्ट)": [
+		"Grammar Based Cloze Test",
+		"Vocabulary Based Cloze Test",
+		"Strategy to Solve Cloze Test"
+	],
+	"32: Para Jumbles (पैराग्राफ क्रम)": [
+		"Sentence Arrangement",
+		"Logical Sequence",
+		"Para Completion"
+	],
+	"33: Reading Comprehension (अपठित गद्यांश)": [
+		"Factual Questions",
+		"Vocabulary Based Questions",
+		"Inference Based Questions",
+		"Tone and Theme"
+	],
+	"34: Precis Writing (संक्षेप लेखन)": [
+		"Rules of Precis Writing",
+		"Title Writing",
+		"Do’s and Don’ts of Precis"
+	],
+	"35: Active Vocabulary for Exams (परीक्षा उपयोगी शब्दावली)": [
+		"SSC Exam Vocabulary",
+		"Banking Exam Vocabulary",
+		"Police \u0026 Railway Vocabulary",
+		"Daily Revision Word List"
+	]
+}

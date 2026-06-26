@@ -1,0 +1,208 @@
+{
+	"1: Physical World and Measurement (भौतिक जगत एवं मापन)": [
+		"Physics – Scope and Excitement (भौतिकी का क्षेत्र)",
+		"Fundamental Forces in Nature (प्रकृति के मौलिक बल)",
+		"Units and Measurements (इकाइयाँ एवं मापन)",
+		"SI Units (SI पद्धति)",
+		"Fundamental and Derived Quantities (मूल एवं व्युत्पन्न राशियाँ)",
+		"Dimensions and Dimensional Formula (विमा एवं विमीय सूत्र)",
+		"Dimensional Analysis (विमीय विश्लेषण)",
+		"Measurement Errors (मापन में त्रुटियाँ)",
+		"Significant Figures (सार्थक अंक)"
+	],
+	"2: Kinematics (गतिकी)": [
+		"Rest and Motion (विराम एवं गति)",
+		"Scalar and Vector Quantities (अदिश एवं सदिश राशियाँ)",
+		"Distance and Displacement (दूरी एवं विस्थापन)",
+		"Speed and Velocity (चाल एवं वेग)",
+		"Acceleration (त्वरण)",
+		"Equations of Motion (गति के समीकरण)",
+		"Graphical Representation of Motion (गति का आलेखीय निरूपण)",
+		"Uniform and Non-uniform Motion (समान एवं असमान गति)",
+		"Relative Motion (सापेक्ष गति)"
+	],
+	"3: Laws of Motion (गति के नियम)": [
+		"Aristotle’s Fallacy (अरस्तू की धारणा)",
+		"Newton’s First Law (न्यूटन का प्रथम नियम)",
+		"Newton’s Second Law (द्वितीय नियम)",
+		"Newton’s Third Law (तृतीय नियम)",
+		"Momentum (संवेग)",
+		"Impulse (आवेग)",
+		"Law of Conservation of Momentum (संवेग संरक्षण नियम)",
+		"Equilibrium of Forces (बलों का संतुलन)",
+		"Friction – Types and Laws (घर्षण)"
+	],
+	"4: Work, Energy and Power (कार्य, ऊर्जा एवं शक्ति)": [
+		"Work by Constant and Variable Force (कार्य)",
+		"Kinetic Energy (गतिज ऊर्जा)",
+		"Potential Energy (स्थितिज ऊर्जा)",
+		"Work–Energy Theorem (कार्य–ऊर्जा प्रमेय)",
+		"Law of Conservation of Energy (ऊर्जा संरक्षण नियम)",
+		"Power (शक्ति)",
+		"Collision – Elastic and Inelastic (संघर्ष)"
+	],
+	"5: Motion of System of Particles and Rigid Body (कण तंत्र एवं दृढ़ पिंड की गति)": [
+		"Centre of Mass (द्रव्यमान केंद्र)",
+		"Motion of Centre of Mass (द्रव्यमान केंद्र की गति)",
+		"Linear Momentum of a System (तंत्र का संवेग)",
+		"Torque (घूर्ण बलाघूर्ण)",
+		"Angular Momentum (कोणीय संवेग)",
+		"Moment of Inertia (जड़त्व आघूर्ण)",
+		"Radius of Gyration (जड़त्व त्रिज्या)",
+		"Rotational Motion (घूर्णन गति)"
+	],
+	"6: Gravitation (गुरुत्वाकर्षण)": [
+		"Universal Law of Gravitation (सार्वत्रिक गुरुत्वाकर्षण नियम)",
+		"Acceleration due to Gravity (गुरुत्व त्वरण)",
+		"Variation of g (g का परिवर्तन)",
+		"Gravitational Potential Energy (गुरुत्व स्थितिज ऊर्जा)",
+		"Escape Velocity (पलायन वेग)",
+		"Orbital Velocity (कक्षीय वेग)",
+		"Kepler’s Laws (केप्लर के नियम)",
+		"Satellites (उपग्रह)"
+	],
+	"7: Properties of Bulk Matter (स्थूल पदार्थ के गुण)": [
+		"Elasticity (प्रत्यास्थता)",
+		"Stress and Strain (तनाव एवं विकृति)",
+		"Hooke’s Law (हुक का नियम)",
+		"Surface Tension (पृष्ठ तनाव)",
+		"Viscosity (श्यानता)",
+		"Pressure in Fluids (द्रवों में दाब)",
+		"Buoyancy and Archimedes’ Principle (उत्प्लावन)"
+	],
+	"8: Thermodynamics (ऊष्मागतिकी)": [
+		"Thermal Equilibrium (ऊष्मीय संतुलन)",
+		"Zeroth Law of Thermodynamics (शून्यवाँ नियम)",
+		"Heat, Work and Internal Energy (ऊष्मा, कार्य, आंतरिक ऊर्जा)",
+		"First Law of Thermodynamics (प्रथम नियम)",
+		"Second Law of Thermodynamics (द्वितीय नियम)",
+		"Entropy (एंट्रॉपी)",
+		"Heat Engines and Refrigerators (ऊष्मा इंजन)"
+	],
+	"9: Behaviour of Perfect Gas and Kinetic Theory (आदर्श गैस का व्यवहार एवं गतिज सिद्धांत)": [
+		"Equation of State of Ideal Gas (आदर्श गैस समीकरण)",
+		"Kinetic Theory of Gases (गैसों का गतिज सिद्धांत)",
+		"Assumptions of Kinetic Theory (मान्यताएँ)",
+		"Kinetic Energy of Gas Molecules (गतिज ऊर्जा)",
+		"Degrees of Freedom (स्वतंत्रता की कोटि)",
+		"Law of Equipartition of Energy (ऊर्जा समविभाजन नियम)",
+		"Specific Heat Capacities (विशिष्ट ऊष्मा)"
+	],
+	"10: Oscillations and Waves (दोलन एवं तरंगें)": [
+		"Periodic and Oscillatory Motion (आवर्ती गति)",
+		"Simple Harmonic Motion – SHM (सरल आवर्त गति)",
+		"Displacement, Velocity and Acceleration in SHM (SHM में राशियाँ)",
+		"Energy in SHM (ऊर्जा)",
+		"Damped and Forced Oscillations (मंदित एवं बाध्य दोलन)",
+		"Wave Motion (तरंग गति)",
+		"Types of Waves (तरंगों के प्रकार)",
+		"Sound Waves and Characteristics (ध्वनि तरंगें)"
+	],
+	"11: Electrostatics (वैद्युत स्थैतिकी)": [
+		"Electric Charge and Its Properties (विद्युत आवेश एवं गुण)",
+		"Coulomb’s Law (कूलॉम का नियम)",
+		"Electric Field and Electric Field Lines (विद्युत क्षेत्र)",
+		"Electric Flux (विद्युत फ्लक्स)",
+		"Gauss’s Law (गाउस का नियम)",
+		"Applications of Gauss’s Law (गाउस नियम के अनुप्रयोग)",
+		"Electric Potential and Potential Difference (विद्युत विभव)",
+		"Equipotential Surfaces (समविभव पृष्ठ)",
+		"Electric Dipole (विद्युत द्विध्रुव)",
+		"Capacitance and Capacitors (धारिता एवं संधारित्र)",
+		"Energy Stored in a Capacitor (संधारित्र में संचित ऊर्जा)"
+	],
+	"12: Current Electricity (धारा विद्युत)": [
+		"Electric Current (विद्युत धारा)",
+		"Drift Velocity (ड्रिफ्ट वेग)",
+		"Ohm’s Law (ओम का नियम)",
+		"Resistance and Factors Affecting It (प्रतिरोध)",
+		"Resistivity and Conductivity (विशिष्ट प्रतिरोध)",
+		"Combination of Resistors – Series and Parallel (प्रतिरोधों का संयोजन)",
+		"Electric Power (विद्युत शक्ति)",
+		"Electrical Energy (विद्युत ऊर्जा)",
+		"Kirchhoff’s Laws (किर्चहॉफ के नियम)",
+		"Wheatstone Bridge (व्हीटस्टोन सेतु)",
+		"Meter Bridge and Potentiometer (मीटर ब्रिज एवं पोटेंशियोमीटर)"
+	],
+	"13: Magnetic Effects of Current and Magnetism (धारा के चुंबकीय प्रभाव एवं चुंबकत्व)": [
+		"Magnetic Field and Field Lines (चुंबकीय क्षेत्र)",
+		"Biot–Savart Law (बायोट–सावर्ट नियम)",
+		"Ampere’s Circuital Law (एम्पियर का परिपथीय नियम)",
+		"Magnetic Field due to Current Carrying Conductor (धारा वाहक चालक)",
+		"Force on a Moving Charge in Magnetic Field (चुंबकीय बल)",
+		"Force on a Current Carrying Conductor (चालक पर बल)",
+		"Magnetic Dipole and Its Properties (चुंबकीय द्विध्रुव)",
+		"Earth’s Magnetism (पृथ्वी का चुंबकत्व)",
+		"Magnetic Materials – Dia, Para, Ferro (चुंबकीय पदार्थ)"
+	],
+	"14: Electromagnetic Induction and Alternating Current (वैद्युत चुंबकीय प्रेरण एवं प्रत्यावर्ती धारा)": [
+		"Electromagnetic Induction (वैद्युत चुंबकीय प्रेरण)",
+		"Faraday’s Laws of Induction (फैराडे के नियम)",
+		"Lenz’s Law (लेन्ज का नियम)",
+		"Self and Mutual Induction (स्वप्रेरण एवं पारस्परिक प्रेरण)",
+		"Inductance (प्रेरकत्व)",
+		"Alternating Current – AC (प्रत्यावर्ती धारा)",
+		"AC Voltage and Current (AC वोल्टेज एवं धारा)",
+		"Reactance and Impedance (प्रतिक्रिया एवं प्रतिबाधा)",
+		"LC, LCR Circuits (एलसी, एलसीआर परिपथ)",
+		"Power in AC Circuits (AC में शक्ति)",
+		"Transformers (परिवर्तक)"
+	],
+	"15: Electromagnetic Waves (वैद्युत चुंबकीय तरंगें)": [
+		"Displacement Current (विस्थापन धारा)",
+		"Maxwell’s Equations (मैक्सवेल समीकरण)",
+		"Electromagnetic Waves – Nature (EM तरंगों का स्वभाव)",
+		"Speed of Electromagnetic Waves (EM तरंगों की चाल)",
+		"Electromagnetic Spectrum (वैद्युत चुंबकीय स्पेक्ट्रम)",
+		"Uses of Electromagnetic Waves (EM तरंगों के उपयोग)"
+	],
+	"16: Optics (प्रकाशिकी)": [
+		"Reflection of Light (प्रकाश का परावर्तन)",
+		"Refraction of Light (प्रकाश का अपवर्तन)",
+		"Laws of Reflection and Refraction (नियम)",
+		"Total Internal Reflection (पूर्ण आंतरिक परावर्तन)",
+		"Refraction through Lenses (लेंस द्वारा अपवर्तन)",
+		"Lens Formula and Magnification (लेंस सूत्र)",
+		"Optical Instruments – Microscope and Telescope (प्रकाशीय यंत्र)",
+		"Wave Optics (तरंग प्रकाशिकी)",
+		"Interference (हस्तक्षेप)",
+		"Diffraction (विवर्तन)",
+		"Polarization (ध्रुवण)"
+	],
+	"17: Dual Nature of Radiation and Matter (विकिरण एवं पदार्थ का द्वैत स्वभाव)": [
+		"Photoelectric Effect (प्रकाश विद्युत प्रभाव)",
+		"Experimental Study of Photoelectric Effect (प्रयोगात्मक अध्ययन)",
+		"Einstein’s Photoelectric Equation (आइंस्टीन समीकरण)",
+		"Wave Nature of Radiation (तरंग स्वभाव)",
+		"Particle Nature of Radiation (कण स्वभाव)",
+		"de Broglie Hypothesis (डी-ब्रॉग्ली परिकल्पना)"
+	],
+	"18: Atoms and Nuclei (परमाणु एवं नाभिक)": [
+		"Atomic Models (परमाणु मॉडल)",
+		"Bohr’s Model of Hydrogen Atom (बोहर मॉडल)",
+		"Energy Levels of Atom (ऊर्जा स्तर)",
+		"Spectral Series of Hydrogen (वर्णक्रम श्रृंखला)",
+		"Nucleus – Composition (नाभिक संरचना)",
+		"Radioactivity (रेडियोधर्मिता)",
+		"Nuclear Fission and Fusion (नाभिकीय विखंडन व संलयन)",
+		"Binding Energy (बंधन ऊर्जा)"
+	],
+	"19: Electronic Devices (इलेक्ट्रॉनिक उपकरण)": [
+		"Energy Bands in Solids (ऊर्जा पट्टियाँ)",
+		"Semiconductors – Intrinsic and Extrinsic (अर्धचालक)",
+		"p-n Junction Diode (p-n जंक्शन डायोड)",
+		"Rectifier (रेक्टिफायर)",
+		"Zener Diode (ज़ेनर डायोड)",
+		"Transistor – Working and Types (ट्रांजिस्टर)",
+		"Logic Gates (लॉजिक गेट्स)"
+	],
+	"20: Communication Systems (संचार प्रणाली)": [
+		"Elements of Communication System (संचार तंत्र के अवयव)",
+		"Bandwidth (बैंडविड्थ)",
+		"Need for Modulation (मॉड्यूलेशन की आवश्यकता)",
+		"Types of Modulation – AM, FM (मॉड्यूलेशन के प्रकार)",
+		"Propagation of Electromagnetic Waves (तरंग प्रसार)",
+		"Satellite Communication (उपग्रह संचार)",
+		"Optical Fibre Communication (फाइबर ऑप्टिक संचार)"
+	]
+}

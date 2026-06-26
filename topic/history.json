@@ -1,0 +1,297 @@
+{
+	"1: Prehistoric Age (प्रागैतिहासिक काल)": [
+		"Paleolithic Age (पुरापाषाण काल)",
+		"Mesolithic Age (मध्यपाषाण काल)",
+		"Neolithic Age (नवपाषाण काल)",
+		"Chalcolithic Age (ताम्र-पाषाण काल)",
+		"Tools and Weapons (औज़ार व हथियार)"
+	],
+	"2: Indus Valley Civilization (सिंधु घाटी सभ्यता)": [
+		"Indus Valley Civilization",
+		"Important Sites – Harappa, Mohenjo-daro, Dholavira, Lothal"
+	],
+	"3: Vedic Age (वैदिक काल)": [
+		"Early Vedic Period (पूर्व वैदिक काल)",
+		"Later Vedic Period (उत्तर वैदिक काल)",
+		"Political Organization",
+		"Social and Political Life (सामाजिक व राजनीतिक जीवन)",
+		"Economic System (अर्थव्यवस्था)",
+		"Vedic Literature (वैदिक साहित्य)"
+	],
+	"4: Religious Movements – Buddhism \u0026 Jainism (बौद्ध एवं जैन धर्म)": [
+		"Life of Buddha and Mahavira (जीवन)",
+		"Mahajanapadas",
+		"Teachings and Doctrines",
+		"Councils (सभाएँ)"
+	],
+	"5: Maurya Empire (मौर्य साम्राज्य)": [
+		"Chandragupta Maurya",
+		"Bindusara",
+		"Ashoka and Dhamma (अशोक व धम्म)",
+		"Administration (प्रशासन)"
+	],
+	"6: Post-Maurya Period (मौर्योत्तर काल)": [
+		"Shunga Dynasty (शुंग वंश)",
+		"Kanva Dynasty (कण्व वंश)",
+		"Indo-Greeks",
+		"Shakas",
+		"Parthians",
+		"Kushana Empire – Kanishka",
+		"Satavahana Dynasty",
+		"Gandhara and Mathura School of Art"
+	],
+	"7: Gupta Empire (गुप्त साम्राज्य)": [
+		"Samudragupta",
+		"Chandragupta II"
+	],
+	"8: Post-Gupta Period (गुप्तोत्तर काल)": [
+		"गुप्तों के बाद का भारत (The Political Void)",
+		"राजकुमार हर्ष का संघर्ष और राज्यारोहण",
+		"हर्ष का साम्राज्य विस्तार और पुलकेशिन-II से युद्ध",
+		"चीनी यात्री ह्वेनसांग (Xuanzang) \u0026 कन्नौज"
+	],
+	"9: Arab Invasion (अरब आक्रमण)": [
+		"अरबों की उत्पत्ति एवं इस्लाम का उदय खिलाफ़त व्यवस्था और उमय्यद विस्तार",
+		"भारत-अरब प्रारंभिक संपर्क, सिंध पर आक्रमण के कारण एवं मुहम्मद बिन कासिम का अभियान",
+		"सिंध में अरब शासन और प्रभाव"
+	],
+	"10: Sangam Age (संगम काल)": [
+		"Sangam Literature",
+		"Three Sangams",
+		"Political Life – Chola, Chera, Pandya",
+		"Social and Economic Life",
+		"Religion and Culture"
+	],
+	"11: South Indian Kingdoms (दक्षिण भारतीय राज्य)": [
+		"Chola Dynasty",
+		"Pandya Dynasty",
+		"Chera Dynasty",
+		"Pallava Dynasty",
+		"Chalukya Dynasty",
+		"Rashtrakuta Dynasty",
+		"Vijayanagara Empire",
+		"Administration System",
+		"Temple Architecture"
+	],
+	"12: Rajput Period (राजपूत काल)": [
+		"Pratihara Dynasty",
+		"Chauhan Dynasty",
+		"Gahadavala Dynasty",
+		"Parmar Dynasty",
+		"Solanki Dynasty",
+		"Chandela Dynasty & Khajuraho",
+		"Political Structure",
+		"Culture and Society",
+		"Causes of Decline"
+	],
+	"13: Delhi Sultanate (दिल्ली सल्तनत)": [
+		"भारत पर तुर्क आक्रमण (Turkish Invasions)",
+		"Slave Dynasty (गुलाम वंश)",
+		"Khalji Dynasty (खिलजी वंश)",
+		"Tughlaq Dynasty (तुगलक वंश)",
+		"Sayyid & Lodi Dynasty (सैयद और लोदी वंश)",
+		"Administration and Iqta System",
+	],
+	"14: Mughal Empire (मुगल साम्राज्य)": [
+		"Babur",
+		"Humayun",
+		"Akbar",
+		"Jahangir",
+		"Shah Jahan",
+		"Aurangzeb",
+		"Mughal Administration",
+		"Mansabdari and Jagirdari System",
+		"Mughal Art and Architecture"
+	],
+	"15: Maratha Empire (मराठा साम्राज्य)": [
+		"Shivaji Maharaj",
+		"Ashta Pradhan",
+		"Expansion of Maratha Power",
+		"Later Peshwas"
+	],
+	"16: Bhakti and Sufi Movement (भक्ति एवं सूफी आंदोलन)": [
+		"Bhakti Saints",
+		"Sufi Orders",
+		"Teachings",
+		"Impact on Society"
+	],
+	"17: Advent of Europeans in India (भारत में यूरोपीयों का आगमन)": [
+		"Portuguese",
+		"Dutch",
+		"French",
+		"British",
+		"Battle of Plassey",
+		"Battle of Buxar"
+	],
+	"18: British Expansion in India (भारत में ब्रिटिश विस्तार)": [
+		"Subsidiary Alliance",
+		"Doctrine of Lapse",
+		"Anglo-Mysore Wars",
+		"Anglo-Maratha Wars"
+	],
+	"19: Economic Impact of British Rule (ब्रिटिश शासन का आर्थिक प्रभाव)": [
+		"Drain of Wealth",
+		"Land Revenue Systems",
+		"Commercialization of Agriculture",
+		"Deindustrialization"
+	],
+	"20: Revolt of 1857 (1857 का विद्रोह)": [
+		"Causes",
+		"Centers and Leaders",
+		"Failure",
+		"Consequences"
+	],
+	"21: Socio-Religious Reform Movements (सामाजिक-धार्मिक सुधार आंदोलन)": [
+		"Brahmo Samaj",
+		"Arya Samaj",
+		"Aligarh Movement",
+		"Role of Reformers"
+	],
+	"22: Indian National Movement – Early Phase (भारतीय राष्ट्रीय आंदोलन – प्रारंभिक चरण)": [
+		"Indian National Movement – Early Phase (भारतीय राष्ट्रीय आंदोलन – प्रारंभिक चरण)",
+		"Formation of Indian National Congress (1885)",
+		"Moderates – Leaders and Methods",
+		"Extremists – Ideology and Leaders",
+		"Partition of Bengal (1905)",
+		"Surat Split (1907)"
+	],
+	"23: Indian National Movement – Gandhian Era (गांधी युग)": [
+		"Indian National Movement – Gandhian Era (गांधी युग)",
+		"Arrival of Mahatma Gandhi",
+		"Non-Cooperation Movement",
+		"Civil Disobedience Movement",
+		"Quit India Movement",
+		"Role of Gandhi in Freedom Struggle"
+	],
+	"24: Constitutional Developments in India (भारत में संवैधानिक विकास)": [
+		"Constitutional Developments in India (भारत में संवैधानिक विकास)",
+		"Morley–Minto Reforms (1909)",
+		"Montagu–Chelmsford Reforms (1919)",
+		"Government of India Act 1935",
+		"Cabinet Mission Plan (1946)",
+		"Indian Independence Act 1947"
+	],
+	"25: Revolutionary Movement in India (भारत में क्रांतिकारी आंदोलन)": [
+		"Revolutionary Movement in India (भारत में क्रांतिकारी आंदोलन)",
+		"Early Revolutionary Activities",
+		"Bhagat Singh",
+		"Chandrashekhar Azad",
+		"Hindustan Socialist Republican Association (HSRA)",
+		"Ghadar Movement"
+	],
+	"26: Partition of India (भारत का विभाजन)": [
+		"Partition of India (भारत का विभाजन)",
+		"Causes of Partition",
+		"Two Nation Theory",
+		"Mountbatten Plan",
+		"Consequences of Partition"
+	],
+	"27: Independence of India (भारत की स्वतंत्रता)": [
+		"Independence of India (भारत की स्वतंत्रता)",
+		"15 August 1947",
+		"Role of National Leaders",
+		"Immediate Challenges after Independence"
+	],
+	"28: Integration of Princely States (रियासतों का एकीकरण)": [
+		"Integration of Princely States (रियासतों का एकीकरण)",
+		"Role of Sardar Vallabhbhai Patel",
+		"Integration of Hyderabad",
+		"Integration of Junagarh",
+		"Integration of Kashmir"
+	],
+	"29: India After Independence (स्वतंत्र भारत)": [
+		"India After Independence (स्वतंत्र भारत)",
+		"Making of the Constitution",
+		"Reorganization of States",
+		"Five Year Plans (Introduction)",
+		"Nation Building Efforts"
+	],
+	"30: World History – Renaissance (पुनर्जागरण)": [
+		"World History – Renaissance (पुनर्जागरण)",
+		"Causes of Renaissance",
+		"Major Features",
+		"Impact on Europe"
+	],
+	"31: World History – French Revolution (फ्रांसीसी क्रांति)": [
+		"World History – French Revolution (फ्रांसीसी क्रांति)",
+		"Causes of French Revolution",
+		"Major Events",
+		"Results and Impact"
+	],
+	"32: World History – Industrial Revolution (औद्योगिक क्रांति)": [
+		"World History – Industrial Revolution (औद्योगिक क्रांति)",
+		"Causes of Industrial Revolution",
+		"Major Inventions",
+		"Impact on Society"
+	],
+	"33: World History – World Wars (विश्व युद्ध)": [
+		"World History – World Wars (विश्व युद्ध)",
+		"World War I – Causes and Results",
+		"World War II – Causes and Results"
+	],
+	"34: Important Dynasties of India (भारत के प्रमुख वंश)": [
+		"Important Dynasties of India (भारत के प्रमुख वंश)",
+		"Maurya Dynasty",
+		"Gupta Dynasty",
+		"Chola Dynasty",
+		"Delhi Sultanate",
+		"Mughal Dynasty",
+		"Maratha Empire"
+	],
+	"35: Art and Architecture in History (इतिहास में कला एवं स्थापत्य)": [
+		"Art and Architecture in History (इतिहास में कला एवं स्थापत्य)",
+		"Buddhist Architecture",
+		"Hindu Temple Architecture",
+		"Indo-Islamic Architecture"
+	],
+	"36: Administration System in Ancient \u0026 Medieval India (प्राचीन एवं मध्यकालीन भारत की प्रशासन व्यवस्था)": [
+		"Administration System in Ancient \u0026 Medieval India (प्राचीन एवं मध्यकालीन भारत की प्रशासन व्यवस्था)",
+		"Central Administration",
+		"Revenue System",
+		"Judicial System"
+	],
+	"37: Cultural History of India (भारत का सांस्कृतिक इतिहास)": [
+		"Cultural History of India (भारत का सांस्कृतिक इतिहास)",
+		"Language and Literature",
+		"Religion and Philosophy",
+		"Festivals and Traditions"
+	],
+	"38: Historical Personalities (ऐतिहासिक व्यक्तित्व)": [
+		"Historical Personalities (ऐतिहासिक व्यक्तित्व)",
+		"Ancient Rulers",
+		"Medieval Rulers",
+		"Freedom Fighters",
+		"Social Reformers"
+	],
+	"39: Important Battles of Indian History (भारतीय इतिहास के महत्वपूर्ण युद्ध)": [
+		"Important Battles of Indian History (भारतीय इतिहास के महत्वपूर्ण युद्ध)",
+		"Battles of Panipat",
+		"Battle of Plassey",
+		"Battle of Buxar",
+		"Anglo-Mysore and Anglo-Maratha Wars"
+	],
+	"40: Foreign Travelers Accounts (विदेशी यात्रियों के विवरण)": [
+		"Foreign Travelers Accounts (विदेशी यात्रियों के विवरण)",
+		"Megasthenes",
+		"Fa-Hien",
+		"Hiuen Tsang",
+		"Ibn Battuta"
+	],
+	"41: Important Treaties and Acts (महत्वपूर्ण संधियाँ एवं अधिनियम)": [
+		"Important Treaties and Acts (महत्वपूर्ण संधियाँ एवं अधिनियम)",
+		"Treaty of Allahabad",
+		"Regulating Act 1773",
+		"Pitt’s India Act 1784"
+	],
+	"42: Chronology and Timeline (इतिहास का कालक्रम)": [
+		"Chronology and Timeline (इतिहास का कालक्रम)",
+		"Ancient to Modern Timeline",
+		"Important Dates"
+	],
+	"43: Miscellaneous History GK (विविध इतिहास सामान्य ज्ञान)": [
+		"Miscellaneous History GK (विविध इतिहास सामान्य ज्ञान)",
+		"One-Liners",
+		"Frequently Asked Facts",
+		"Exam Repeated Questions"
+	]
+}

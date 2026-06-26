@@ -1,0 +1,248 @@
+{
+	"1: Varnmala (वर्णमाला)": [
+		"Hindi Varnmala ka Parichay (हिंदी वर्णमाला का परिचय)",
+		"Swar (स्वर)",
+		"Vyanjan (व्यंजन)",
+		"Matraein (मात्राएँ)",
+		"Sanyukt Akshar (संयुक्त अक्षर)",
+		"Uchcharan Sthan (उच्चारण स्थान)"
+	],
+	"2: Swar aur Vyanjan (स्वर और व्यंजन)": [
+		"Swar ke Bhed (स्वर के भेद)",
+		"Hrasva, Deergha aur Plut Swar (ह्रस्व, दीर्घ, प्लुत)",
+		"Vyanjan ke Bhed (व्यंजन के भेद)",
+		"Sparsh, Antahstha, Ushm (स्पर्श, अन्तःस्थ, ऊष्म)",
+		"Ghosh aur Aghosh Vyanjan (घोष-अघोष)"
+	],
+	"3: Shabd Vichar (शब्द विचार)": [
+		"Shabd ki Paribhasha (शब्द की परिभाषा)",
+		"Shabd ke Bhed (शब्द के भेद)",
+		"Utpatti ke Aadhar par Shabd (उत्पत्ति के आधार पर शब्द)",
+		"Arth ke Aadhar par Shabd (अर्थ के आधार पर शब्द)",
+		"Roop ke Aadhar par Shabd (रूप के आधार पर शब्द)"
+	],
+	"4: Sandhi (संधि)": [
+		"Sandhi ki Paribhasha (संधि की परिभाषा)",
+		"Swar Sandhi (स्वर संधि)",
+		"Vyanjan Sandhi (व्यंजन संधि)",
+		"Visarg Sandhi (विसर्ग संधि)",
+		"Sandhi Vichchhed (संधि विच्छेद)"
+	],
+	"5: Samas (समास)": [
+		"Samas ki Paribhasha (समास की परिभाषा)",
+		"Avyayibhav Samas (अव्ययीभाव समास)",
+		"Tatpurush Samas (तत्पुरुष समास)",
+		"Karmadharaya Samas (कर्मधारय समास)",
+		"Dvandva Samas (द्वंद्व समास)",
+		"Bahuvrihi Samas (बहुव्रीहि समास)",
+		"Samas Vigrah (समास विग्रह)"
+	],
+	"6: Upsarg aur Pratyay (उपसर्ग और प्रत्यय)": [
+		"Upsarg ki Paribhasha (उपसर्ग की परिभाषा)",
+		"Pramukh Upsarg (प्रमुख उपसर्ग)",
+		"Pratyay ki Paribhasha (प्रत्यय की परिभाषा)",
+		"Pramukh Pratyay (प्रमुख प्रत्यय)",
+		"Upsarg–Pratyay ka Antar (अंतर)"
+	],
+	"7: Ling (लिंग)": [
+		"Ling ki Paribhasha (लिंग की परिभाषा)",
+		"Pulling (पुल्लिंग)",
+		"Striling (स्त्रीलिंग)",
+		"Ling Parivartan (लिंग परिवर्तन)",
+		"Ling Sambandhi Ashuddhiyan (लिंग संबंधी अशुद्धियाँ)"
+	],
+	"8: Vachan (वचन)": [
+		"Vachan ki Paribhasha (वचन की परिभाषा)",
+		"Ek Vachan (एकवचन)",
+		"Bahuvachan (बहुवचन)",
+		"Vachan Parivartan (वचन परिवर्तन)",
+		"Vachan Sambandhi Ashuddhiyan (वचन अशुद्धियाँ)"
+	],
+	"9: Purush (पुरुष)": [
+		"Purush ki Paribhasha (पुरुष की परिभाषा)",
+		"Uttam Purush (उत्तम पुरुष)",
+		"Madhyam Purush (मध्यम पुरुष)",
+		"Anya Purush (अन्य पुरुष)",
+		"Purush Sambandhi Prayog (प्रयोग)"
+	],
+	"10: Kaal (काल)": [
+		"Kaal ki Paribhasha (काल की परिभाषा)",
+		"Vartaman Kaal (वर्तमान काल)",
+		"Bhut Kaal (भूत काल)",
+		"Bhavishya Kaal (भविष्य काल)",
+		"Kaal Sambandhi Ashuddhiyan (काल अशुद्धियाँ)"
+	],
+	"11: Kriya (क्रिया)": [
+		"Kriya ki Paribhasha (क्रिया की परिभाषा)",
+		"Kriya ke Bhed (क्रिया के भेद)",
+		"Sakarmak aur Akarmak Kriya (सकर्मक एवं अकर्मक)",
+		"Sahayi Kriya (सहायक क्रिया)",
+		"Kriya ke Kaal ke Aadhar par Bhed (काल के आधार पर भेद)",
+		"Kriya Sambandhi Ashuddhiyan (क्रिया संबंधी अशुद्धियाँ)"
+	],
+	"12: Karak (कारक)": [
+		"Karak ki Paribhasha (कारक की परिभाषा)",
+		"Karak ke Bhed (कारक के भेद)",
+		"Karta Karak (कर्ता कारक)",
+		"Karma Karak (कर्म कारक)",
+		"Karan Karak (करण कारक)",
+		"Sampradan Karak (संप्रदान कारक)",
+		"Apadan Karak (अपादान कारक)",
+		"Adhikaran Karak (अधिकरण कारक)",
+		"Karak Chinh (कारक चिह्न)"
+	],
+	"13: Vakya Vichar (वाक्य विचार)": [
+		"Vakya ki Paribhasha (वाक्य की परिभाषा)",
+		"Vakya ke Bhed – Rachna ke Aadhar par (रचना के आधार पर)",
+		"Saral, Sanyukt, Mishra Vakya (सरल, संयुक्त, मिश्र)",
+		"Vakya ke Ang (वाक्य के अंग)",
+		"Vakya Rachna (वाक्य रचना)",
+		"Vakya Sambandhi Ashuddhiyan (वाक्य अशुद्धियाँ)"
+	],
+	"14: Vakya Shuddhi (वाक्य शुद्धि)": [
+		"Vakya Ashuddhi ke Prakar (वाक्य अशुद्धि के प्रकार)",
+		"Ling, Vachan, Kaal Sambandhi Ashuddhiyan (लिंग, वचन, काल)",
+		"Karak Sambandhi Ashuddhiyan (कारक अशुद्धियाँ)",
+		"Shabd Kram Sambandhi Ashuddhiyan (शब्द क्रम)",
+		"Shuddh Vakya ke Niyam (शुद्ध वाक्य के नियम)"
+	],
+	"15: Shabd Shuddhi (शब्द शुद्धि)": [
+		"Ashuddh Shabdon ki Pehchan (अशुद्ध शब्दों की पहचान)",
+		"Shabd Shuddhi ke Niyam (शब्द शुद्धि के नियम)",
+		"Samanya Ashuddh Shabd (सामान्य अशुद्ध शब्द)",
+		"Shabd Shuddhi Abhyas (अभ्यास प्रश्न)"
+	],
+	"16: Vilom Shabd (विलोम शब्द)": [
+		"Vilom ki Paribhasha (विलोम की परिभाषा)",
+		"Samanya Vilom Shabd (सामान्य विलोम शब्द)",
+		"Pariksha Upyogi Vilom (परीक्षा उपयोगी)",
+		"Vilom ka Prayog (प्रयोग)"
+	],
+	"17: Paryayvachi Shabd (पर्यायवाची शब्द)": [
+		"Paryayvachi ki Paribhasha (पर्यायवाची की परिभाषा)",
+		"Samanya Paryayvachi Shabd (सामान्य पर्यायवाची)",
+		"Pariksha Upyogi Paryayvachi (परीक्षा उपयोगी)",
+		"Paryayvachi ka Prayog (प्रयोग)"
+	],
+	"18: Anekarthi Shabd (अनेकार्थी शब्द)": [
+		"Anekarthi ki Paribhasha (अनेकार्थी की परिभाषा)",
+		"Anekarthi Shabdon ke Arth (विभिन्न अर्थ)",
+		"Vakya mein Prayog (वाक्य में प्रयोग)",
+		"Pariksha Upyogi Anekarthi (परीक्षा उपयोगी)"
+	],
+	"19: Tatsam aur Tadbhav (तत्सम और तद्भव)": [
+		"Tatsam Shabd (तत्सम शब्द)",
+		"Tadbhav Shabd (तद्भव शब्द)",
+		"Tatsam–Tadbhav Antar (अंतर)",
+		"Udaharan Sahit Prayog (उदाहरण सहित प्रयोग)"
+	],
+	"20: Muhavare (मुहावरे)": [
+		"Muhavare ki Paribhasha (मुहावरे की परिभाषा)",
+		"Samanya Muhavare (सामान्य मुहावरे)",
+		"Muhavaron ke Arth (अर्थ)",
+		"Vakya mein Prayog (वाक्य में प्रयोग)",
+		"Pariksha Upyogi Muhavare (परीक्षा उपयोगी)"
+	],
+	"21: Lokoktiyan (लोकोक्तियाँ)": [
+		"Lokokti ki Paribhasha (लोकोक्ति की परिभाषा)",
+		"Lokokti aur Muhavare mein Antar (लोकोक्ति व मुहावरे में अंतर)",
+		"Samanya Lokoktiyan (सामान्य लोकोक्तियाँ)",
+		"Lokoktiyon ke Arth (अर्थ)",
+		"Vakya mein Prayog (वाक्य में प्रयोग)",
+		"Pariksha Upyogi Lokoktiyan (परीक्षा उपयोगी)"
+	],
+	"22: Alankar (अलंकार)": [
+		"Alankar ki Paribhasha (अलंकार की परिभाषा)",
+		"Shabd Alankar (शब्द अलंकार)",
+		"Arth Alankar (अर्थ अलंकार)",
+		"Chhand Alankar (छंद अलंकार)",
+		"Pramukh Alankar – Upma, Rupak, Anupras, Atishyokti (प्रमुख अलंकार)",
+		"Alankar ki Pehchan (पहचान)"
+	],
+	"23: Ras (रस)": [
+		"Ras ki Paribhasha (रस की परिभाषा)",
+		"Ras ke Ang – Sthayi, Vibhav, Anubhav, Sanchari (रस के अंग)",
+		"Navras (नवरस)",
+		"Shringar Ras (श्रृंगार रस)",
+		"Veer Ras (वीर रस)",
+		"Karun, Hasya, Raudra, Bhayanak, Bibhats, Adbhut, Shant Ras"
+	],
+	"24: Chhand (छंद)": [
+		"Chhand ki Paribhasha (छंद की परिभाषा)",
+		"Chhand ke Tatva (छंद के तत्व)",
+		"Matra aur Varna (मात्रा व वर्ण)",
+		"Pramukh Chhand – Doha, Chaupai, Sortha (प्रमुख छंद)",
+		"Chhand ki Pehchan (छंद पहचान)"
+	],
+	"25: Kavya ke Bhed (काव्य के भेद)": [
+		"Kavya ki Paribhasha (काव्य की परिभाषा)",
+		"Mahakavya (महाकाव्य)",
+		"Khandkavya (खंडकाव्य)",
+		"Muktak Kavya (मुक्तक काव्य)",
+		"Drishya aur Shravy Kavya (दृश्य व श्रव्य काव्य)"
+	],
+	"26: Sahitya ki Vidhayein (साहित्य की विधाएँ)": [
+		"Gadya Sahitya (गद्य साहित्य)",
+		"Padya Sahitya (पद्य साहित्य)",
+		"Natak (नाटक)",
+		"Kahani (कहानी)",
+		"Upanyas (उपन्यास)",
+		"Nibandh (निबंध)",
+		"Jeevani aur Atmakatha (जीवनी व आत्मकथा)"
+	],
+	"27: Rachna aur Rachnakar (रचना और रचनाकार)": [
+		"Pramukh Kavi aur Lekhak (प्रमुख कवि व लेखक)",
+		"Unki Rachnayein (उनकी रचनाएँ)",
+		"Aadhunik Kaal ke Rachnakar (आधुनिक काल)",
+		"Bhakti Kaal ke Kavi (भक्ति काल)",
+		"Ritik Kaal ke Kavi (रीतिकाल)"
+	],
+	"28: Hindi Sahitya ka Itihas (हिंदी साहित्य का इतिहास)": [
+		"Aadi Kaal (आदिकाल)",
+		"Bhakti Kaal (भक्तिकाल)",
+		"Ritik Kaal (रीतिकाल)",
+		"Aadhunik Kaal (आधुनिक काल)",
+		"Pramukh Pravrittiyan (प्रमुख प्रवृत्तियाँ)"
+	],
+	"29: Patra Lekhan (पत्र लेखन)": [
+		"Patra Lekhan ke Prakar (पत्र लेखन के प्रकार)",
+		"Aupcharik Patra (औपचारिक पत्र)",
+		"Anaupcharik Patra (अनौपचारिक पत्र)",
+		"Sarakari Patra (सरकारी पत्र)",
+		"Patra Lekhan ke Niyam (नियम)"
+	],
+	"30: Nibandh Lekhan (निबंध लेखन)": [
+		"Nibandh ki Paribhasha (निबंध की परिभाषा)",
+		"Nibandh ke Bhed (निबंध के भेद)",
+		"Nibandh Lekhan ki Vidhi (लेखन विधि)",
+		"Samanya Nibandh Vishay (सामान्य विषय)"
+	],
+	"31: Anuvad (अनुवाद)": [
+		"Anuvad ki Paribhasha (अनुवाद की परिभाषा)",
+		"Anuvad ke Prakar (अनुवाद के प्रकार)",
+		"Shabdarth aur Bhavarth Anuvad (शब्दार्थ व भावार्थ)",
+		"Anuvad ki Samasyayein (समस्याएँ)"
+	],
+	"32: Apathit Gadyansh aur Padyansh (अपठित गद्यांश एवं पद्यांश)": [
+		"Gadyansh ka Adhyayan (गद्यांश अध्ययन)",
+		"Padyansh ka Adhyayan (पद्यांश अध्ययन)",
+		"Prashnottar Vidhi (प्रश्नोत्तर विधि)",
+		"Mukhya Vichar ki Pehchan (मुख्य विचार)"
+	],
+	"33: Sankshiptikaran / Summary Writing (संक्षेपण)": [
+		"Sankshiptikaran ki Paribhasha (संक्षेपण की परिभाषा)",
+		"Sankshiptikaran ke Niyam (नियम)",
+		"Achha Summary ka Gun (अच्छे संक्षेप के गुण)"
+	],
+	"34: Muhavare aur Lokoktiyan ka Prayog (प्रयोग)": [
+		"Muhavaron ka Sahi Prayog (मुहावरों का सही प्रयोग)",
+		"Lokoktiyon ka Sahi Prayog (लोकोक्तियों का सही प्रयोग)",
+		"Vakya Sudhar Abhyas (वाक्य सुधार अभ्यास)"
+	],
+	"35: Official Language – Rajbhasha Hindi (राजभाषा हिंदी)": [
+		"Rajbhasha ki Paribhasha (राजभाषा की परिभाषा)",
+		"Samvidhan mein Rajbhasha (संविधान में राजभाषा)",
+		"Rajbhasha Adhiniyam (राजभाषा अधिनियम)",
+		"Sarakari Karyon mein Hindi ka Prayog (सरकारी कार्यों में हिंदी)"
+	]
+}

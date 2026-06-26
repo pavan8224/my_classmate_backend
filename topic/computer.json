@@ -1,0 +1,257 @@
+{
+  "1: Introduction to Computer (कंप्यूटर का परिचय)": [
+    "Definition of Computer (कंप्यूटर की परिभाषा)",
+    "Data and Information (डेटा एवं सूचना)",
+    "Working of Computer System (कंप्यूटर की कार्यप्रणाली)",
+    "Applications of Computer (कंप्यूटर के उपयोग)"
+  ],
+
+  "2: History of Computer (कंप्यूटर का इतिहास)": [
+    "Abacus and Early Calculating Devices (प्राचीन गणना उपकरण)",
+    "Generations of Computer – First to Fifth (कंप्यूटर की पीढ़ियाँ)",
+    "Important Computer Scientists (महत्वपूर्ण वैज्ञानिक)"
+  ],
+
+  "3: Characteristics of Computer (कंप्यूटर की विशेषताएँ)": [
+    "Speed (गति)",
+    "Accuracy (सटीकता)",
+    "Diligence (परिश्रमशीलता)",
+    "Versatility (बहुपयोगिता)",
+    "Limitations of Computer (सीमाएँ)"
+  ],
+
+  "4: Components of Computer System (कंप्यूटर प्रणाली के घटक)": [
+    "Input Unit (इनपुट इकाई)",
+    "Central Processing Unit – CPU (केंद्रीय प्रक्रमण इकाई)",
+    "Output Unit (आउटपुट इकाई)",
+    "Control Unit and ALU (नियंत्रण इकाई एवं ALU)"
+  ],
+
+  "5: Input Devices (इनपुट उपकरण)": [
+    "Keyboard (कीबोर्ड)",
+    "Mouse (माउस)",
+    "Scanner (स्कैनर)",
+    "Joystick, Light Pen, MICR, OCR (अन्य इनपुट उपकरण)"
+  ],
+
+  "6: Output Devices (आउटपुट उपकरण)": [
+    "Monitor (मॉनिटर)",
+    "Printer – Impact & Non-Impact (प्रिंटर)",
+    "Plotter (प्लॉटर)",
+    "Speaker and Headphone (स्पीकर)"
+  ],
+
+  "7: Memory and Storage Devices (मेमोरी एवं भंडारण उपकरण)": [
+    "Primary Memory – RAM, ROM (प्राथमिक मेमोरी)",
+    "Secondary Memory (द्वितीयक मेमोरी)",
+    "Cache Memory (कैश मेमोरी)",
+    "Units of Memory (मेमोरी की इकाइयाँ)"
+  ],
+
+  "8: Hardware and Software (हार्डवेयर एवं सॉफ्टवेयर)": [
+    "Definition of Hardware (हार्डवेयर)",
+    "Definition of Software (सॉफ्टवेयर)",
+    "Difference between Hardware and Software",
+    "Examples of Hardware and Software"
+  ],
+
+  "9: Types of Software (सॉफ्टवेयर के प्रकार)": [
+    "System Software (सिस्टम सॉफ्टवेयर)",
+    "Application Software (अनुप्रयोग सॉफ्टवेयर)",
+    "Utility Software (यूटिलिटी सॉफ्टवेयर)",
+    "Firmware (फर्मवेयर)"
+  ],
+
+  "10: Operating System (ऑपरेटिंग सिस्टम)": [
+    "Functions of Operating System (OS के कार्य)",
+    "Process Management (प्रक्रिया प्रबंधन)",
+    "Memory Management (मेमोरी प्रबंधन)",
+    "File Management (फ़ाइल प्रबंधन)"
+  ],
+
+  "11: Types of Operating System (ऑपरेटिंग सिस्टम के प्रकार)": [
+    "Single User and Multi User OS",
+    "Batch Operating System",
+    "Time Sharing Operating System",
+    "Real Time Operating System",
+    "Examples of OS (Windows, Linux, Android)"
+  ],
+
+  "12: Computer Languages (कंप्यूटर भाषाएँ)": [
+    "Machine Language (मशीन भाषा)",
+    "Assembly Language (असेंबली भाषा)",
+    "High Level Language (उच्च स्तरीय भाषा)",
+    "Compiler and Interpreter (कम्पाइलर एवं इंटरप्रेटर)"
+  ],
+
+  "13: Number System (संख्या पद्धति)": [
+    "Decimal Number System (दशमलव)",
+    "Binary Number System (द्विआधारी)",
+    "Octal Number System (अष्टाधारी)",
+    "Hexadecimal Number System (षोडशाधारी)",
+    "Number Conversion (संख्या रूपांतरण)"
+  ],
+
+  "14: Binary Arithmetic (द्विआधारी अंकगणित)": [
+    "Binary Addition (द्विआधारी जोड़)",
+    "Binary Subtraction (घटाव)",
+    "Binary Multiplication (गुणा)",
+    "Binary Division (भाग)",
+    "1’s and 2’s Complement"
+  ],
+
+  "15: Logic Gates (लॉजिक गेट्स)": [
+    "AND Gate",
+    "OR Gate",
+    "NOT Gate",
+    "NAND, NOR, XOR Gates",
+    "Truth Table (सत्य सारणी)"
+  ],
+
+  "16: Database and DBMS (डेटाबेस एवं DBMS)": [
+    "Data and Database (डेटा एवं डेटाबेस)",
+    "DBMS – Definition and Functions",
+    "Types of DBMS",
+    "Advantages of DBMS",
+    "Examples – MySQL, Oracle"
+  ],
+
+  "17: Data and Information (डेटा एवं सूचना)": [
+    "Raw Data and Processed Data",
+    "Information System (सूचना प्रणाली)",
+    "Data Processing Cycle",
+    "Characteristics of Information"
+  ],
+
+  "18: Networking Fundamentals (कंप्यूटर नेटवर्क)": [
+    "Definition of Network (नेटवर्क की परिभाषा)",
+    "Advantages of Networking",
+    "Client–Server and Peer to Peer Network",
+    "Network Topology (नेटवर्क टोपोलॉजी)"
+  ],
+
+  "19: Types of Networks (नेटवर्क के प्रकार)": [
+    "LAN (Local Area Network)",
+    "MAN (Metropolitan Area Network)",
+    "WAN (Wide Area Network)",
+    "PAN (Personal Area Network)"
+  ],
+
+  "20: Network Devices (नेटवर्क उपकरण)": [
+    "Modem",
+    "Hub",
+    "Switch",
+    "Router",
+    "Repeater and Bridge"
+  ],
+
+  "21: Internet and WWW (इंटरनेट एवं वर्ल्ड वाइड वेब)": [
+    "Definition of Internet",
+    "WWW – World Wide Web",
+    "Web Browser (वेब ब्राउज़र)",
+    "Search Engine (सर्च इंजन)"
+  ],
+
+  "22: Internet Services (इंटरनेट सेवाएँ)": [
+    "Email",
+    "FTP",
+    "Chatting and Video Conferencing",
+    "E-Commerce",
+    "Cloud Services"
+  ],
+
+  "23: Email and Its Features (ईमेल एवं उसकी विशेषताएँ)": [
+    "Email Structure (ईमेल संरचना)",
+    "To, Cc, Bcc",
+    "Attachments",
+    "Advantages of Email"
+  ],
+
+  "24: Cyber Security (साइबर सुरक्षा)": [
+    "Cyber Crime (साइबर अपराध)",
+    "Hacking and Phishing",
+    "Malware and Ransomware",
+    "Cyber Safety Measures"
+  ],
+
+  "25: Computer Virus and Antivirus (कंप्यूटर वायरस एवं एंटीवायरस)": [
+    "Definition of Computer Virus",
+    "Types of Virus (वायरस के प्रकार)",
+    "Antivirus Software",
+    "Prevention of Virus"
+  ],
+
+  "26: MS Word (एमएस वर्ड)": [
+    "Creating and Saving Document",
+    "Formatting Text",
+    "Page Setup",
+    "Mail Merge",
+    "Shortcut Keys in MS Word"
+  ],
+
+  "27: MS Excel (एमएस एक्सेल)": [
+    "Workbook and Worksheet",
+    "Rows, Columns and Cells",
+    "Formulas and Functions",
+    "Charts and Graphs",
+    "Shortcut Keys in Excel"
+  ],
+
+  "28: MS PowerPoint (एमएस पावरपॉइंट)": [
+    "Creating Presentation",
+    "Slides and Layouts",
+    "Animations and Transitions",
+    "Slide Show",
+    "Shortcut Keys in PowerPoint"
+  ],
+
+  "29: Shortcut Keys (शॉर्टकट कुंजियाँ)": [
+    "Common Shortcut Keys",
+    "Windows Shortcut Keys",
+    "MS Office Shortcut Keys",
+    "Exam Oriented Shortcut Keys"
+  ],
+
+  "30: Basics of Programming (प्रोग्रामिंग की मूल बातें)": [
+    "Program and Programming Language",
+    "Variables and Constants",
+    "Data Types",
+    "Operators",
+    "Control Statements"
+  ],
+
+  "31: Flowchart and Algorithm (फ्लोचार्ट एवं एल्गोरिदम)": [
+    "Definition of Algorithm",
+    "Characteristics of Algorithm",
+    "Flowchart Symbols",
+    "Difference between Algorithm and Flowchart"
+  ],
+
+  "32: Artificial Intelligence – Basics (कृत्रिम बुद्धिमत्ता – मूल बातें)": [
+    "Definition of AI",
+    "Applications of AI",
+    "Machine Learning Basics",
+    "Examples of AI"
+  ],
+
+  "33: Cloud Computing – Basics (क्लाउड कंप्यूटिंग – मूल बातें)": [
+    "Definition of Cloud Computing",
+    "Types of Cloud – Public, Private, Hybrid",
+    "Cloud Services – IaaS, PaaS, SaaS",
+    "Advantages of Cloud"
+  ],
+
+  "34: E-Governance and Digital India (ई-गवर्नेंस एवं डिजिटल इंडिया)": [
+    "E-Governance Concept",
+    "Digital India Mission",
+    "Government Digital Services",
+    "Benefits of E-Governance"
+  ],
+
+  "35: Computer Ethics and Laws (कंप्यूटर नैतिकता एवं कानून)": [
+    "Computer Ethics",
+    "IT Act 2000 (सूचना प्रौद्योगिकी अधिनियम)",
+    "Cyber Laws in India",
+    "Intellectual Property Rights (IPR)"
+  ]
+}

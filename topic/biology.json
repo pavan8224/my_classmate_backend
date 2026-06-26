@@ -1,0 +1,360 @@
+{
+  "1: The Living World (जीव जगत)": [
+    "What is Living? (सजीव क्या है?)",
+    "Characteristics of Living Organisms (सजीवों के लक्षण)",
+    "Biodiversity (जैव विविधता)",
+    "Nomenclature – Binomial System (द्विनाम पद्धति)",
+    "Taxonomic Categories (वर्गिकी श्रेणियाँ)",
+    "Taxonomical Aids – Herbarium, Museum, Botanical Garden, Zoo (वर्गिकी सहायक साधन)"
+  ],
+
+  "2: Biological Classification (जैव वर्गीकरण)": [
+    "Need for Classification (वर्गीकरण की आवश्यकता)",
+    "Five Kingdom Classification (पाँच जगत वर्गीकरण)",
+    "Kingdom Monera (मोनेरा जगत)",
+    "Kingdom Protista (प्रोटिस्टा जगत)",
+    "Kingdom Fungi (कवक जगत)",
+    "Kingdom Plantae (पादप जगत)",
+    "Kingdom Animalia (जंतु जगत)",
+    "Viruses, Viroids and Lichens (विषाणु, वायरोइड, लाइकेन)"
+  ],
+
+  "3: Plant Kingdom (पादप जगत)": [
+    "Algae (शैवाल)",
+    "Bryophyta (ब्रायोफाइटा)",
+    "Pteridophyta (टेरिडोफाइटा)",
+    "Gymnosperms (नग्नबीजी)",
+    "Angiosperms (आवृतबीजी)",
+    "Plant Life Cycle (पादप जीवन चक्र)",
+    "Alternation of Generations (पीढ़ियों का परिवर्तन)"
+  ],
+
+  "4: Animal Kingdom (जंतु जगत)": [
+    "Basis of Classification (वर्गीकरण का आधार)",
+    "Levels of Organisation (संगठन के स्तर)",
+    "Body Symmetry (शरीर सममिति)",
+    "Coelom (सीलोम)",
+    "Porifera (पोरीफेरा)",
+    "Cnidaria / Coelenterata (सीनिडेरिया)",
+    "Platyhelminthes (चपटी कृमि)",
+    "Nematoda (सूत्रकृमि)",
+    "Annelida (खंडित कृमि)",
+    "Arthropoda (संधिपाद)",
+    "Mollusca (मोलस्का)",
+    "Echinodermata (एकाइनोडर्मेटा)",
+    "Chordata (कॉर्डेटा)"
+  ],
+
+  "5: Morphology of Flowering Plants (पुष्पीय पौधों की आकृति विज्ञान)": [
+    "Root – Types and Modifications (जड़ के प्रकार)",
+    "Stem – Types and Modifications (तना)",
+    "Leaf – Structure and Modifications (पत्ती)",
+    "Inflorescence (पुष्पक्रम)",
+    "Flower – Parts and Types (पुष्प)",
+    "Fruit – Types (फल)",
+    "Seed – Structure (बीज)"
+  ],
+
+  "6: Anatomy of Flowering Plants (पुष्पीय पौधों की शारीरिक रचना)": [
+    "Plant Tissues (पादप ऊतक)",
+    "Meristematic Tissue (विभज्योतक ऊतक)",
+    "Permanent Tissue (स्थायी ऊतक)",
+    "Anatomy of Root (जड़ की संरचना)",
+    "Anatomy of Stem (तने की संरचना)",
+    "Anatomy of Leaf (पत्ती की संरचना)",
+    "Secondary Growth (द्वितीयक वृद्धि)"
+  ],
+
+  "7: Structural Organisation in Animals (जंतुओं में संरचनात्मक संगठन)": [
+    "Animal Tissues (जंतु ऊतक)",
+    "Epithelial Tissue (उपकला ऊतक)",
+    "Connective Tissue (संयोजी ऊतक)",
+    "Muscular Tissue (मांसपेशीय ऊतक)",
+    "Nervous Tissue (तंत्रिका ऊतक)",
+    "Earthworm Structure (केंचुआ)",
+    "Cockroach Structure (तिलचट्टा)",
+    "Frog Structure (मेंढक)"
+  ],
+
+  "8: Cell – The Unit of Life (कोशिका – जीवन की इकाई)": [
+    "Discovery of Cell (कोशिका की खोज)",
+    "Cell Theory (कोशिका सिद्धांत)",
+    "Prokaryotic Cell (प्रोकैरियोटिक कोशिका)",
+    "Eukaryotic Cell (यूकेरियोटिक कोशिका)",
+    "Cell Organelles (कोशिकांग)",
+    "Plasma Membrane (कोशिका झिल्ली)"
+  ],
+
+  "9: Biomolecules (जैव अणु)": [
+    "Carbohydrates (कार्बोहाइड्रेट)",
+    "Proteins (प्रोटीन)",
+    "Lipids (वसा)",
+    "Nucleic Acids – DNA & RNA (न्यूक्लिक अम्ल)",
+    "Enzymes (एंजाइम)",
+    "Metabolism (चयापचय)"
+  ],
+
+  "10: Cell Cycle and Cell Division (कोशिका चक्र एवं कोशिका विभाजन)": [
+    "Cell Cycle Phases (कोशिका चक्र के चरण)",
+    "Interphase (अंतरावस्था)",
+    "Mitosis (माइटोसिस)",
+    "Meiosis (मीयोसिस)",
+    "Significance of Cell Division (महत्व)"
+  ],
+
+  "11: Transport in Plants (पौधों में परिवहन)": [
+    "Diffusion (विसरण)",
+    "Osmosis (परासरण)",
+    "Water Absorption (जल अवशोषण)",
+    "Transpiration (वाष्पोत्सर्जन)",
+    "Translocation of Food (भोजन का परिवहन)"
+  ],
+
+  "12: Mineral Nutrition (खनिज पोषण)": [
+    "Essential Mineral Elements (आवश्यक खनिज तत्व)",
+    "Macronutrients (स्थूल पोषक)",
+    "Micronutrients (सूक्ष्म पोषक)",
+    "Deficiency Symptoms (कमी के लक्षण)",
+    "Nitrogen Cycle (नाइट्रोजन चक्र)"
+  ],
+
+  "13: Photosynthesis in Higher Plants (उच्च पादपों में प्रकाश संश्लेषण)": [
+    "Photosynthetic Pigments (प्रकाश संश्लेषी रंजक)",
+    "Light Reaction (प्रकाश अभिक्रिया)",
+    "Dark Reaction / Calvin Cycle (अंधकार अभिक्रिया)",
+    "Factors Affecting Photosynthesis (प्रभावक कारक)"
+  ],
+
+  "14: Respiration in Plants (पौधों में श्वसन)": [
+    "Respiration Process (श्वसन प्रक्रिया)",
+    "Glycolysis (ग्लाइकोलाइसिस)",
+    "Krebs Cycle (क्रेब्स चक्र)",
+    "Electron Transport Chain (इलेक्ट्रॉन परिवहन श्रृंखला)"
+  ],
+
+  "15: Plant Growth and Development (पौधों की वृद्धि एवं विकास)": [
+    "Growth Phases (वृद्धि चरण)",
+    "Plant Hormones / Phytohormones (पादप हार्मोन)",
+    "Photoperiodism (प्रकाश अवधि)",
+    "Vernalization (वसंतकरण)"
+  ],
+	
+  "16: Digestion and Absorption (पाचन एवं अवशोषण)": [
+    "Digestive System in Human (मानव पाचन तंत्र)",
+    "Digestive Glands (पाचन ग्रंथियाँ)",
+    "Digestion of Carbohydrates (कार्बोहाइड्रेट का पाचन)",
+    "Digestion of Proteins (प्रोटीन का पाचन)",
+    "Digestion of Fats (वसा का पाचन)",
+    "Absorption of Digested Food (पचे भोजन का अवशोषण)",
+    "Disorders of Digestive System (पाचन तंत्र के रोग)"
+  ],
+
+  "17: Breathing and Exchange of Gases (श्वसन एवं गैसों का आदान-प्रदान)": [
+    "Respiratory Organs (श्वसन अंग)",
+    "Mechanism of Breathing (श्वसन की क्रिया विधि)",
+    "Exchange of Gases (गैसों का आदान-प्रदान)",
+    "Transport of Oxygen and Carbon Dioxide (O₂ एवं CO₂ का परिवहन)",
+    "Regulation of Respiration (श्वसन का नियंत्रण)",
+    "Respiratory Disorders (श्वसन रोग)"
+  ],
+
+  "18: Body Fluids and Circulation (शारीरिक द्रव एवं परिसंचरण)": [
+    "Blood – Composition and Functions (रक्त – संरचना एवं कार्य)",
+    "Blood Groups and Rh Factor (रक्त समूह एवं आरएच कारक)",
+    "Lymph (लसीका)",
+    "Human Heart – Structure (मानव हृदय संरचना)",
+    "Cardiac Cycle (हृदय चक्र)",
+    "Double Circulation (द्विगुण परिसंचरण)",
+    "Blood Pressure and ECG (रक्तचाप एवं ईसीजी)"
+  ],
+
+  "19: Excretory Products and their Elimination (उत्सर्जी पदार्थ एवं उनका निष्कासन)": [
+    "Human Excretory System (मानव उत्सर्जन तंत्र)",
+    "Structure of Kidney and Nephron (गुर्दा एवं नेफ्रॉन संरचना)",
+    "Urine Formation (मूत्र निर्माण)",
+    "Regulation of Kidney Function (गुर्दा क्रिया का नियंत्रण)",
+    "Role of Liver and Skin in Excretion (यकृत व त्वचा की भूमिका)",
+    "Excretory Disorders (उत्सर्जन तंत्र के रोग)"
+  ],
+
+  "20: Locomotion and Movement (गमन एवं संचलन)": [
+    "Types of Movement (संचलन के प्रकार)",
+    "Muscle Types and Structure (मांसपेशियों के प्रकार)",
+    "Mechanism of Muscle Contraction (मांसपेशी संकुचन तंत्र)",
+    "Skeletal System (कंकाल तंत्र)",
+    "Joints (संधियाँ)",
+    "Disorders of Muscular and Skeletal System (रोग)"
+  ],
+
+  "21: Neural Control and Coordination (तंत्रिका नियंत्रण एवं समन्वय)": [
+    "Neuron – Structure and Function (न्यूरॉन संरचना एवं कार्य)",
+    "Nerve Impulse Transmission (तंत्रिका आवेग संचरण)",
+    "Central Nervous System (केंद्रीय तंत्रिका तंत्र)",
+    "Peripheral Nervous System (परिधीय तंत्रिका तंत्र)",
+    "Autonomic Nervous System (स्वायत्त तंत्रिका तंत्र)",
+    "Reflex Action (प्रतिवर्त क्रिया)",
+    "Disorders of Nervous System (तंत्रिका रोग)"
+  ],
+
+  "22: Chemical Coordination and Integration (रासायनिक नियंत्रण एवं समन्वय)": [
+    "Endocrine Glands (अंतःस्रावी ग्रंथियाँ)",
+    "Hormones – Types and Functions (हार्मोन)",
+    "Mechanism of Hormone Action (हार्मोन क्रिया विधि)",
+    "Feedback Regulation (फीडबैक नियंत्रण)",
+    "Disorders of Endocrine System (अंतःस्रावी रोग)"
+  ],
+
+  "23: Reproduction in Organisms (जीवों में प्रजनन)": [
+    "Asexual Reproduction (अलैंगिक प्रजनन)",
+    "Sexual Reproduction (लैंगिक प्रजनन)",
+    "Reproductive Cycles (प्रजनन चक्र)",
+    "Events in Sexual Reproduction (लैंगिक प्रजनन की अवस्थाएँ)"
+  ],
+
+  "24: Sexual Reproduction in Flowering Plants (पुष्पीय पौधों में लैंगिक प्रजनन)": [
+    "Flower – Structure (पुष्प संरचना)",
+    "Microsporogenesis and Megasporogenesis (सूक्ष्मबीजाणु व महाबीजन निर्माण)",
+    "Pollination – Types and Agents (परागण)",
+    "Fertilization – Double Fertilization (द्विगुण निषेचन)",
+    "Post Fertilization Changes (निषेचन उपरांत परिवर्तन)",
+    "Seed and Fruit Formation (बीज एवं फल निर्माण)"
+  ],
+
+  "25: Human Reproduction (मानव प्रजनन)": [
+    "Male Reproductive System (पुरुष प्रजनन तंत्र)",
+    "Female Reproductive System (स्त्री प्रजनन तंत्र)",
+    "Gametogenesis – Spermatogenesis & Oogenesis (गैमेट निर्माण)",
+    "Menstrual Cycle (मासिक धर्म चक्र)",
+    "Fertilization and Implantation (निषेचन एवं आरोपण)",
+    "Pregnancy and Embryonic Development (गर्भावस्था एवं भ्रूण विकास)",
+    "Parturition and Lactation (प्रसव एवं दुग्धस्राव)"
+  ],
+	
+  "26: Reproductive Health (प्रजनन स्वास्थ्य)": [
+    "Reproductive Health – Problems and Strategies (समस्याएँ एवं रणनीतियाँ)",
+    "Population Explosion (जनसंख्या विस्फोट)",
+    "Birth Control Methods (जन्म नियंत्रण विधियाँ)",
+    "Contraceptives – Natural, Barrier, IUDs, Oral Pills (गर्भनिरोधक)",
+    "Medical Termination of Pregnancy – MTP (गर्भसमापन)",
+    "Sexually Transmitted Diseases – STDs (यौन संचारित रोग)",
+    "Infertility and Assisted Reproductive Technologies – ART (बांझपन एवं सहायक तकनीक)"
+  ],
+
+  "27: Principles of Inheritance and Variation (वंशागति एवं विविधता के सिद्धांत)": [
+    "Mendel’s Experiments (मेंडल के प्रयोग)",
+    "Mendel’s Laws of Inheritance (मेंडल के नियम)",
+    "Monohybrid and Dihybrid Cross (एकसंकर व द्विसंकर संकरण)",
+    "Incomplete Dominance and Codominance (अपूर्ण प्रभुत्व, सह-प्रभुत्व)",
+    "Multiple Alleles and Pleiotropy (बहु एलील)",
+    "Chromosomal Theory of Inheritance (गुणसूत्र सिद्धांत)",
+    "Linkage and Recombination (संलग्नता एवं पुनर्संयोजन)",
+    "Sex Determination (लिंग निर्धारण)",
+    "Genetic Disorders (आनुवंशिक विकार)"
+  ],
+
+  "28: Molecular Basis of Inheritance (वंशागति का आणविक आधार)": [
+    "DNA – Structure and Types (डीएनए संरचना)",
+    "RNA – Structure and Types (आरएनए)",
+    "DNA Replication (डीएनए प्रतिकृति)",
+    "Transcription (लिप्यंतरण)",
+    "Genetic Code (आनुवंशिक कूट)",
+    "Translation (अनुवादन)",
+    "Regulation of Gene Expression – Lac Operon (जीन अभिव्यक्ति नियंत्रण)",
+    "Human Genome Project (मानव जीनोम परियोजना)",
+    "DNA Fingerprinting (डीएनए फिंगरप्रिंटिंग)"
+  ],
+
+  "29: Evolution (विकासवाद)": [
+    "Origin of Life (जीवन की उत्पत्ति)",
+    "Theories of Evolution – Lamarck & Darwin (लैमार्क, डार्विन)",
+    "Evidences of Evolution (विकास के प्रमाण)",
+    "Adaptive Radiation (अनुकूलन विकिरण)",
+    "Speciation (प्रजाति निर्माण)",
+    "Hardy–Weinberg Principle (हार्डी-वाइनबर्ग सिद्धांत)",
+    "Human Evolution (मानव विकास)"
+  ],
+
+  "30: Human Health and Disease (मानव स्वास्थ्य एवं रोग)": [
+    "Health and Disease (स्वास्थ्य एवं रोग)",
+    "Pathogens – Bacteria, Virus, Protozoa, Helminths (रोगजनक)",
+    "Immunity – Innate and Acquired (प्रतिरक्षा)",
+    "Antibodies and Antigens (प्रतिपिंड व प्रतिजन)",
+    "Vaccination and Immunization (टीकाकरण)",
+    "Allergies (एलर्जी)",
+    "Cancer (कैंसर)",
+    "AIDS (एड्स)",
+    "Drug and Alcohol Abuse (नशा)"
+  ],
+
+  "31: Strategies for Enhancement in Food Production (खाद्य उत्पादन में वृद्धि की रणनीतियाँ)": [
+    "Animal Husbandry (पशुपालन)",
+    "Plant Breeding (पादप प्रजनन)",
+    "Single Cell Protein – SCP (एककोशिकीय प्रोटीन)",
+    "Biofortification (जैव सुदृढ़ीकरण)",
+    "Apiculture (मधुमक्खी पालन)",
+    "Fisheries (मत्स्य पालन)"
+  ],
+
+  "32: Microbes in Human Welfare (मानव कल्याण में सूक्ष्मजीव)": [
+    "Microbes in Household Products (घरेलू उत्पाद)",
+    "Microbes in Industrial Products (औद्योगिक उत्पाद)",
+    "Microbes in Sewage Treatment (मलजल शोधन)",
+    "Microbes in Biogas Production (बायोगैस)",
+    "Microbes as Biocontrol Agents (जैव नियंत्रण)",
+    "Microbes as Biofertilizers (जैव उर्वरक)"
+  ],
+
+  "33: Biotechnology – Principles and Processes (जैव प्रौद्योगिकी – सिद्धांत एवं प्रक्रियाएँ)": [
+    "Principles of Biotechnology (जैव प्रौद्योगिकी के सिद्धांत)",
+    "Tools of Recombinant DNA Technology (rDNA तकनीक के उपकरण)",
+    "Restriction Enzymes (प्रतिबंध एंजाइम)",
+    "Cloning Vectors (क्लोनिंग वाहक)",
+    "Polymerase Chain Reaction – PCR (पीसीआर)",
+    "Bioreactors (जैव अभिक्रियक)",
+    "Downstream Processing (डाउनस्ट्रीम प्रोसेसिंग)"
+  ],
+
+  "34: Biotechnology and its Applications (जैव प्रौद्योगिकी एवं इसके अनुप्रयोग)": [
+    "Genetically Modified Organisms – GMO (जीएम जीव)",
+    "Bt Crops (बीटी फसलें)",
+    "Transgenic Animals (ट्रांसजेनिक जंतु)",
+    "Gene Therapy (जीन चिकित्सा)",
+    "Molecular Diagnosis (आणविक निदान)",
+    "Ethical Issues in Biotechnology (नैतिक मुद्दे)"
+  ],
+
+  "35: Organisms and Populations (जीव एवं जनसंख्या)": [
+    "Organism and Environment (जीव एवं पर्यावरण)",
+    "Population Attributes (जनसंख्या विशेषताएँ)",
+    "Population Growth Models (जनसंख्या वृद्धि मॉडल)",
+    "Population Interactions (जनसंख्या अंतःक्रिया)",
+    "Adaptations (अनुकूलन)"
+  ],
+
+  "36: Ecosystem (पारिस्थितिकी तंत्र)": [
+    "Ecosystem – Structure and Function (संरचना एवं कार्य)",
+    "Productivity (उत्पादकता)",
+    "Energy Flow (ऊर्जा प्रवाह)",
+    "Food Chain and Food Web (खाद्य श्रृंखला एवं जाल)",
+    "Ecological Pyramids (पारिस्थितिकी पिरामिड)",
+    "Nutrient Cycles (पोषक चक्र)"
+  ],
+
+  "37: Biodiversity and Conservation (जैव विविधता एवं संरक्षण)": [
+    "Levels of Biodiversity (जैव विविधता के स्तर)",
+    "Patterns of Biodiversity (विविधता प्रतिरूप)",
+    "Loss of Biodiversity (जैव विविधता ह्रास)",
+    "Biodiversity Conservation – In situ & Ex situ (संरक्षण)",
+    "Biodiversity Hotspots (हॉटस्पॉट्स)"
+  ],
+
+  "38: Environmental Issues (पर्यावरणीय समस्याएँ)": [
+    "Air Pollution (वायु प्रदूषण)",
+    "Water Pollution (जल प्रदूषण)",
+    "Solid Waste Management (ठोस अपशिष्ट प्रबंधन)",
+    "Greenhouse Effect and Global Warming (ग्रीनहाउस प्रभाव)",
+    "Ozone Depletion (ओजोन क्षय)",
+    "Deforestation (वनोन्मूलन)",
+    "Environmental Laws and Awareness (पर्यावरण कानून)"
+  ]
+}
