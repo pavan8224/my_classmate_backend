@@ -1,0 +1,24 @@
+{
+  "chapters": [
+    "1: Physical World and Measurement (भौतिक जगत एवं मापन)",
+    "2: Kinematics (गतिकी)",
+    "3: Laws of Motion (गति के नियम)",
+    "4: Work, Energy and Power (कार्य, ऊर्जा एवं शक्ति)",
+    "5: Motion of System of Particles and Rigid Body (कण तंत्र एवं दृढ़ पिंड की गति)",
+    "6: Gravitation (गुरुत्वाकर्षण)",
+    "7: Properties of Bulk Matter (स्थूल पदार्थ के गुण)",
+    "8: Thermodynamics (ऊष्मागतिकी)",
+    "9: Behaviour of Perfect Gas and Kinetic Theory (आदर्श गैस का व्यवहार एवं गतिज सिद्धांत)",
+    "10: Oscillations and Waves (दोलन एवं तरंगें)",
+    "11: Electrostatics (वैद्युत स्थैतिकी)",
+    "12: Current Electricity (धारा विद्युत)",
+    "13: Magnetic Effects of Current and Magnetism (धारा के चुंबकीय प्रभाव एवं चुंबकत्व)",
+    "14: Electromagnetic Induction and Alternating Current (वैद्युत चुंबकीय प्रेरण एवं प्रत्यावर्ती धारा)",
+    "15: Electromagnetic Waves (वैद्युत चुंबकीय तरंगें)",
+    "16: Optics (प्रकाशिकी)",
+    "17: Dual Nature of Radiation and Matter (विकिरण एवं पदार्थ का द्वैत स्वभाव)",
+    "18: Atoms and Nuclei (परमाणु एवं नाभिक)",
+    "19: Electronic Devices (इलेक्ट्रॉनिक उपकरण)",
+    "20: Communication Systems (संचार प्रणाली)"
+  ]
+}
